@@ -1,0 +1,3410 @@
+Electoral Division,Highest Education Level,Total Hours Worked
+001 Carlow Urban,205,"1,517"
+002 Graigue Urban,64,542
+003 Clonmore,38,246
+004 Hacketstown,61,410
+005 Haroldstown,22,104
+006 Kineagh,29,149
+007 Rahill,40,284
+008 Rathvilly,37,302
+009 Tiknock,30,135
+010 Williamstown,13,119
+011 Agha,22,174
+012 Ballinacarrig,81,402
+013 Ballintemple,37,244
+014 Ballon,46,289
+015 Ballyellin,30,165
+016 Ballymoon,25,159
+017 Borris,68,367
+018 Burton Hall,34,221
+019 Carlow Rural,881,"5,274"
+020 Clogrenan,66,423
+021 Clonegall,68,428
+022 Corries,35,218
+023 Cranemore,87,447
+024 Fennagh,31,306
+025 Garryhill,38,247
+026 Grangeford,43,200
+027 Johnstown,28,225
+028 Kellistown,58,399
+029 Kilbride,28,191
+030 Killedmond,33,194
+031 Killerrig,30,163
+032 Leighlinbridge,118,689
+033 Muinebeag (Bagenalstown) Rural,41,253
+034 Muinebeag (Bagenalstown) Urban,152,975
+035 Myshall,27,211
+036 Nurney,52,351
+037 Oldleighlin,37,233
+038 Rathanna,10,60
+039 Rathornan,25,161
+040 Rathrush,71,439
+041 Ridge,28,114
+042 Shangarry,34,227
+043 Sliguff,32,201
+044 Tankardstown,29,180
+045 Templepeter,30,167
+046 Tullowbeg,46,267
+047 Tullow Rural,65,354
+048 Tullow Urban,209,"1,476"
+049 Ballymurphy,14,107
+050 Coonogue,9,92
+051 Glynn,19,145
+052 Kyle,20,122
+053 Marley,38,148
+054 Tinnahinch,50,264
+001 Arran Quay A,95,854
+002 Arran Quay B,195,"2,246"
+003 Arran Quay C,221,"2,489"
+004 Arran Quay D,133,"1,472"
+005 Arran Quay E,142,"1,838"
+006 Ashtown A,645,"5,586"
+007 Ashtown B,180,"1,287"
+008 Ayrfield,299,"2,482"
+009 Ballybough A,125,"1,531"
+010 Ballybough B,158,"1,778"
+011 Ballygall A,172,"1,602"
+012 Ballygall B,82,706
+013 Ballygall C,174,"1,304"
+014 Ballygall D,126,"1,114"
+015 Ballymun A,152,"2,052"
+016 Ballymun B,86,"1,338"
+017 Ballymun C,159,"2,100"
+018 Ballymun D,49,768
+019 Ballymun E,93,633
+020 Ballymun F,149,"1,042"
+021 Beaumont A,166,"1,001"
+022 Beaumont B,259,"2,067"
+023 Beaumont C,186,"1,364"
+024 Beaumont D,126,975
+025 Beaumont E,117,821
+026 Beaumont F,218,"1,609"
+027 Botanic A,149,"1,497"
+028 Botanic B,184,"1,727"
+029 Botanic C,107,"1,188"
+030 Cabra East A,288,"3,009"
+031 Cabra East B,168,"1,614"
+032 Cabra East C,200,"2,059"
+033 Cabra West A,52,544
+034 Cabra West B,116,979
+035 Cabra West C,107,"1,193"
+036 Cabra West D,129,"1,364"
+037 Clontarf East A,167,"1,363"
+038 Clontarf East B,392,"3,173"
+039 Clontarf East C,162,"1,313"
+040 Clontarf East D,139,"1,129"
+041 Clontarf East E,77,781
+042 Clontarf West A,189,"1,718"
+043 Clontarf West B,120,"1,033"
+044 Clontarf West C,203,"2,010"
+045 Clontarf West D,116,"1,240"
+046 Clontarf West E,128,"1,169"
+047 Drumcondra South A,275,"2,821"
+048 Drumcondra South B,81,965
+049 Drumcondra South C,191,"1,580"
+050 Edenmore,106,997
+051 Finglas North A,102,"1,160"
+052 Finglas North B,94,"1,020"
+053 Finglas North C,185,"1,529"
+054 Finglas South A,98,"1,033"
+055 Finglas South B,142,"1,614"
+056 Finglas South C,57,830
+057 Finglas South D,65,851
+058 Grace Park,288,"2,640"
+059 Grange A,465,"4,480"
+060 Grange B,265,"2,663"
+061 Grange C,156,"1,144"
+062 Grange D,170,"1,643"
+063 Grange E,138,987
+064 Harmonstown A,146,"1,146"
+065 Harmonstown B,124,"1,159"
+066 Inns Quay A,135,"1,602"
+067 Inns Quay B,184,"1,869"
+068 Inns Quay C,98,"1,285"
+069 Kilmore A,166,"1,649"
+070 Kilmore B,59,897
+071 Kilmore C,43,444
+072 Kilmore D,120,801
+073 Mountjoy A,151,"2,368"
+074 Mountjoy B,126,"1,951"
+075 North City,227,"2,998"
+076 North Dock A,83,742
+077 North Dock B,320,"4,373"
+078 North Dock C,138,"2,138"
+079 Phoenix Park,90,849
+080 Priorswood A,88,708
+081 Priorswood B,40,804
+082 Priorswood C,133,"1,792"
+083 Priorswood D,83,941
+084 Priorswood E,139,"1,225"
+085 Raheny-Foxfield,126,935
+086 Raheny-Greendale,107,794
+087 Raheny-St. Assam,185,"1,542"
+088 Rotunda A,266,"2,722"
+089 Rotunda B,106,"1,245"
+090 Whitehall A,161,"1,075"
+091 Whitehall B,236,"1,674"
+092 Whitehall C,102,949
+093 Whitehall D,145,"1,495"
+094 Chapelizod,169,"1,681"
+095 Cherry Orchard A,65,"1,100"
+096 Carna,85,"1,021"
+097 Cherry Orchard C,155,"1,683"
+098 Crumlin A,177,"1,559"
+099 Crumlin B,122,"1,180"
+100 Crumlin C,93,981
+101 Crumlin D,168,"1,726"
+102 Crumlin E,116,"1,099"
+103 Crumlin F,143,"1,256"
+104 Decies,84,980
+105 Drumfinn,128,"1,251"
+106 Inchicore A,138,"1,183"
+107 Inchicore B,97,841
+108 Kilmainham A,96,"1,057"
+109 Kilmainham B,131,"1,360"
+110 Kilmainham C,225,"2,380"
+111 Kimmage A,67,769
+112 Kimmage B,141,"1,464"
+113 Kimmage C,154,"1,618"
+114 Kimmage D,116,"1,139"
+115 Kimmage E,157,"1,526"
+116 Kylemore,82,905
+117 Mansion House A,149,"1,835"
+118 Mansion House B,61,515
+119 Merchants Quay A,57,"1,295"
+120 Merchants Quay B,152,"2,252"
+121 Merchants Quay C,143,"1,867"
+122 Merchants Quay D,132,"1,160"
+123 Merchants Quay E,91,"1,035"
+124 Merchants Quay F,77,"1,081"
+125 Pembroke East A,206,"2,689"
+126 Pembroke East B,189,"1,838"
+127 Pembroke East C,201,"1,922"
+128 Pembroke East D,242,"2,237"
+129 Pembroke East E,154,"1,942"
+130 Pembroke West A,250,"2,948"
+131 Pembroke West B,150,"1,588"
+132 Pembroke West C,238,"2,667"
+133 Rathfarnham,192,"1,897"
+134 Rathmines East A,243,"2,729"
+135 Rathmines East B,277,"3,295"
+136 Rathmines East C,148,"1,623"
+137 Rathmines East D,138,"1,608"
+138 Rathmines West A,266,"3,478"
+139 Rathmines West B,192,"2,316"
+140 Rathmines West C,148,"1,425"
+141 Rathmines West D,175,"1,668"
+142 Rathmines West E,209,"1,896"
+143 Rathmines West F,183,"1,671"
+144 Royal Exchange A,155,"1,773"
+145 Royal Exchange B,57,792
+146 St. Kevin's,244,"2,787"
+147 South Dock,310,"4,387"
+148 Terenure A,224,"1,984"
+149 Terenure B,215,"1,719"
+150 Terenure C,93,759
+151 Terenure D,44,331
+152 Ushers A,217,"2,583"
+153 Ushers B,71,737
+154 Ushers C,127,"1,890"
+155 Ushers D,101,"1,118"
+156 Ushers E,77,734
+157 Ushers F,150,"1,635"
+158 Walkinstown A,134,"1,239"
+159 Walkinstown B,134,823
+160 Walkinstown C,167,919
+161 Wood Quay A,101,"1,037"
+162 Wood Quay B,180,"1,939"
+001 Ballinascorney,53,378
+002 Ballyboden,337,"2,346"
+003 Bohernabreena,239,"1,920"
+004 Clondalkin-Ballymount,152,951
+005 Clondalkin-Cappaghmore,62,746
+006 Clondalkin-Dunawley,469,"4,373"
+007 Clondalkin-Monastery,727,"5,155"
+008 Clondalkin-Moorfield,228,"2,383"
+009 Clondalkin-Rowlagh,112,"1,455"
+010 Clondalkin Village,547,"4,167"
+011 Edmondstown,296,"2,458"
+012 Firhouse-Ballycullen,487,"4,054"
+013 Firhouse-Knocklyon,238,"1,490"
+014 Firhouse Village,757,"5,552"
+015 Lucan-Esker,"1,704","14,558"
+016 Lucan Heights,316,"2,152"
+017 Lucan-St. Helen's,678,"4,826"
+018 Newcastle,312,"1,905"
+019 Palmerston Village,251,"1,477"
+020 Palmerston West,365,"3,001"
+021 Rathcoole,392,"2,307"
+022 Rathfarnham-Ballyroan,160,985
+023 Rathfarnham-Butterfield,189,"1,346"
+024 Rathfarnham-Hermitage,279,"2,173"
+025 Rathfarnham-St. Enda's,239,"1,751"
+026 Rathfarnham Village,206,"1,402"
+027 Saggart,309,"2,215"
+028 Tallaght-Avonbeg,54,508
+029 Tallaght-Belgard,120,732
+030 Tallaght-Fettercairn,207,"2,664"
+031 Tallaght-Glenview,104,906
+032 Tallaght-Jobstown,739,"6,513"
+033 Tallaght-Killinardan,110,"1,262"
+034 Tallaght-Kilnamanagh,344,"2,102"
+035 Tallaght-Kiltipper,386,"3,421"
+036 Tallaght-Kingswood,284,"1,863"
+037 Tallaght-Millbrook,207,"1,288"
+038 Tallaght-Oldbawn,330,"2,005"
+039 Tallaght-Springfield,628,"4,730"
+040 Tallaght-Tymon,261,"1,845"
+041 Templeogue-Cypress,167,"1,091"
+042 Templeogue-Kimmage Manor,265,"2,232"
+043 Templeogue-Limekiln,233,"1,420"
+044 Templeogue-Orwell,136,832
+045 Templeogue-Osprey,124,"1,011"
+046 Templeogue Village,120,939
+047 Terenure-Cherryfield,144,946
+048 Terenure-Greentrees,177,"1,143"
+049 Terenure-St. James,197,885
+001 Airport,266,"2,623"
+002 Balbriggan Rural,716,"6,345"
+003 Balbriggan Urban,411,"3,144"
+004 Baldoyle,398,"3,265"
+005 Balgriffin,135,"1,280"
+006 Ballyboghil,67,486
+007 Balscadden,43,314
+008 Blanchardstown-Abbotstown,281,"2,927"
+009 Blanchardstown-Blakestown,"2,035","17,656"
+010 Blanchardstown-Coolmine,488,"4,669"
+011 Blanchardstown-Corduff,142,"1,469"
+012 Blanchardstown-Delwood,308,"2,410"
+013 Blanchardstown-Mulhuddart,166,"1,598"
+014 Blanchardstown-Roselawn,100,655
+015 Blanchardstown-Tyrrelstown,91,"1,021"
+016 Castleknock-Knockmaroon,990,"9,098"
+017 Castleknock-Park,312,"2,679"
+018 Clonmethan,41,358
+019 Donabate,496,"4,178"
+020 Dubber,360,"3,737"
+021 Garristown,98,630
+022 Hollywood,89,671
+023 Holmpatrick,238,"1,412"
+024 Howth,435,"3,169"
+025 Kilsallaghan,122,901
+026 Kinsaley,542,"4,832"
+027 Lucan North,78,591
+028 Lusk,543,"4,193"
+029 Malahide East,387,"3,227"
+030 Malahide West,339,"2,641"
+031 Portmarnock North,254,"1,606"
+032 Portmarnock South,225,"1,659"
+033 Rush,574,"4,281"
+034 Skerries,470,"3,502"
+035 Sutton,347,"2,347"
+036 Swords-Forrest,885,"7,967"
+037 Swords-Glasmore,428,"3,466"
+038 Swords-Lissenhall,604,"4,998"
+039 Swords-Seatown,373,"3,413"
+040 Swords Village,166,"1,366"
+041 The Ward,472,"4,381"
+042 Turnapin,72,816
+001 Ballinteer-Broadford,162,"1,145"
+002 Ballinteer-Ludford,168,766
+003 Ballinteer-Marley,138,"1,003"
+004 Ballinteer-Meadowbroads,110,651
+005 Ballinteer-Meadowmount,112,715
+006 Ballinteer-Woodpark,322,"2,513"
+007 Ballybrack,175,"1,131"
+008 Blackrock-Booterstown,163,"1,705"
+009 Blackrock-Carysfort,272,"2,813"
+010 Blackrock-Central,171,"1,623"
+011 Blackrock-Glenomena,58,776
+012 Blackrock-Monkstown,170,"1,482"
+013 Blackrock-Newpark,145,894
+014 Blackrock-Seapoint,64,622
+015 Blackrock-Stradbrook,119,"1,045"
+016 Blackrock-Templehill,124,"1,212"
+017 Blackrock-Williamstown,117,"1,321"
+018 Cabinteely-Granitefield,171,"1,067"
+019 Cabinteely-Kilbogget,131,997
+020 Cabinteely-Loughlinstown,225,"2,369"
+021 Cabinteely-Pottery,257,"2,089"
+022 Churchtown-Castle,100,694
+023 Churchtown-Landscape,85,609
+024 Churchtown-Nutgrove,154,"1,359"
+025 Churchtown-Orwell,99,798
+026 Churchtown-Woodlawn,103,651
+027 Clonskeagh-Belfield,50,434
+028 Clonskeagh-Farranboley,105,742
+029 Clonskeagh-Milltown,105,872
+030 Clonskeagh-Roebuck,100,"1,132"
+031 Clonskeagh-Windy Arbour,137,"1,175"
+032 Dalkey-Avondale,73,488
+033 Dalkey-Bullock,97,679
+034 Dalkey-Coliemore,80,525
+035 Dalkey Hill,83,530
+036 Dalkey Upper,106,803
+037 Dundrum-Balally,491,"3,915"
+038 Dundrum-Kilmacud,196,"1,663"
+039 Dundrum-Sandyford,444,"4,135"
+040 Dundrum-Sweetmount,122,964
+041 Dundrum-Taney,131,"1,018"
+042 Dún Laoghaire-East Central,131,"1,150"
+043 Dún Laoghaire-Glasthule,150,"1,098"
+044 Dún Laoghaire-Glenageary,104,833
+045 Dún Laoghaire-Monkstown Farm,115,"1,001"
+046 Dún Laoghaire-Mount Town,70,728
+047 Dún Laoghaire-Sallynoggin East,131,"1,107"
+048 Dún Laoghaire-Sallynoggin South,81,583
+049 Dún Laoghaire-Sallynoggin West,128,"1,201"
+050 Dún Laoghaire-Sandycove,219,"1,378"
+051 Dún Laoghaire-Salthill,81,857
+052 Dún Laoghaire-West Central,133,"1,290"
+053 Foxrock-Beechpark,104,607
+054 Foxrock-Carrickmines,261,"2,406"
+055 Foxrock-Deans Grange,138,947
+056 Foxrock-Torquay,60,605
+057 Glencullen,"1,004","9,358"
+058 Killiney North,183,"1,347"
+059 Killiney South,265,"2,711"
+060 Shankill-Rathmichael,326,"2,452"
+061 Shankill-Rathsallagh,142,"1,248"
+062 Shankill-Shanganagh,287,"2,527"
+063 Stillorgan-Deerpark,130,"1,129"
+064 Stillorgan-Kilmacud,227,"1,674"
+065 Stillorgan-Leopardstown,165,"1,303"
+066 Stillorgan-Merville,152,"1,403"
+067 Stillorgan-Mount Merrion,116,936
+068 Stillorgan-Priory,105,"1,016"
+069 Tibradden,58,377
+001 Athy East Urban,167,"1,337"
+002 Athy West Urban,122,780
+003 Naas Urban,"1,474","9,889"
+004 Athy Rural,183,"1,391"
+005 Ballaghmoon,13,79
+006 Ballitore,57,411
+007 Ballybrackan,31,259
+008 Ballyshannon,107,734
+009 Belan,24,111
+010 Bert,12,79
+011 Burtown,21,167
+012 Carrigeen,35,242
+013 Castledermot,107,655
+014 Churchtown,21,202
+015 Dunmanoge,34,199
+016 Fontstown,22,174
+017 Graney,63,328
+018 Grangemellon,42,223
+019 Harristown,25,193
+020 Inchaquire,12,106
+021 Johnstown,7,69
+022 Kilberry,19,213
+023 Kildangan,50,306
+024 Kilkea,14,124
+025 Kilrush,45,312
+026 Lackagh,49,351
+027 Monasterevin,273,"1,859"
+028 Moone,29,222
+029 Narraghmore,39,338
+030 Nurney,58,431
+031 Quinsborough,6,81
+032 Skerries,44,220
+033 Balraheen,143,850
+034 Celbridge,"1,032","7,103"
+035 Cloncurry,118,721
+036 Donadea,60,351
+037 Donaghcumper,407,"2,971"
+038 Kilcock,458,"3,106"
+039 Leixlip,"1,134","7,134"
+040 Maynooth,927,"6,845"
+041 Straffan,147,892
+042 Ballynadrumny,29,237
+043 Cadamstown,109,576
+044 Carbury,106,723
+045 Carrick,17,120
+046 Cloncurry,24,169
+047 Drehid,16,115
+048 Dunfierth,52,321
+049 Killinthomas,24,139
+050 Kilpatrick,61,319
+051 Kilrainy,46,299
+052 Lullymore,22,74
+053 Rathangan,169,"1,003"
+054 Thomastown,47,385
+055 Windmill Cross,69,440
+056 Ballymore Eustace,100,675
+057 Ballysax East,94,849
+058 Ballysax West,36,407
+059 Bodenstown,354,"2,210"
+060 Carnalway,109,868
+061 Carragh,129,777
+062 Clane,599,"3,739"
+063 Donore,64,377
+064 Downings,193,"1,162"
+065 Droichead Nua (Newbridge) Rural,181,"1,192"
+066 Droichead Nua (Newbridge) Urban,422,"3,181"
+067 Dunmurry,25,197
+068 Feighcullen,42,246
+069 Gilltown,61,425
+070 Kilcullen,215,"1,439"
+071 Kildare,456,"4,008"
+072 Kill,314,"2,127"
+073 Killashee,25,126
+074 Kilmeage North,150,972
+075 Kilmeage South,122,817
+076 Kilteel,41,246
+077 Ladytown,54,443
+078 Morristownbiller,869,"6,353"
+079 Naas Rural,221,"1,395"
+080 Newtown,71,422
+081 Oldconnell,65,379
+082 Oughterard,58,339
+083 Pollardstown,23,149
+084 Rathernan,54,264
+085 Rathmore,81,533
+086 Robertstown,124,757
+087 Timahoe North,79,483
+088 Timahoe South,60,334
+089 Usk,31,214
+001 Kilkenny No. 1 Urban,325,"2,279"
+002 Kilkenny No. 2 Urban,210,"1,653"
+003 Burnchurch,41,233
+004 Callan Rural,99,650
+005 Callan Urban,92,698
+006 Coolaghmore,24,184
+007 Dunamaggan,26,164
+008 Earlstown,14,100
+009 Kells,41,284
+010 Killamery,11,93
+011 Kilmaganny,36,284
+012 Kilmanagh,35,214
+013 Mallardstown,13,102
+014 Scotsborough,7,65
+015 Tullaghanbrogue,32,204
+016 Boolyglass,5,51
+017 Fiddown,78,422
+018 Muckalee,13,76
+019 Pilltown,106,662
+020 Templeorum,24,181
+021 Tubbrid,29,181
+022 Tullahought,13,83
+023 Whitechurch,25,163
+024 Attanagh,31,170
+025 Ballyragget,87,596
+026 Castlecomer,151,870
+027 Clogh,77,462
+028 Clogharinka,20,122
+029 Kilmacar,37,199
+030 Moneenroe,98,495
+031 Mothell,22,189
+032 Muckalee,40,234
+033 Brownsford,5,58
+034 Dysartmoon,18,119
+035 Jerpoint West,13,93
+036 Listerlin,22,164
+037 Rosbercon Rural,43,266
+038 Shanbogh,31,186
+039 The Rower,67,343
+040 Ballinamara,27,173
+041 Ballybeagh,14,128
+042 Ballycallan,37,193
+043 Clara,47,316
+044 Coolcraheen,35,219
+045 Dunbell,31,220
+046 Dunmore,48,303
+047 Freshford,50,368
+048 Gowran,78,618
+049 Grange,76,363
+050 Kilkenny Rural,"1,065","7,563"
+051 Kilkieran,44,282
+052 Odagh,31,197
+053 Outrath,41,301
+054 Paulstown,60,418
+055 Rathcoole,34,231
+056 Rathealy,10,94
+057 St. Canice,52,274
+058 Shankill,63,399
+059 Tiscoffin,23,206
+060 Tullaroan,19,127
+061 Aghaviller,23,186
+062 Ballyhale,31,188
+063 Ballyvool,10,86
+064 Bennettsbridge,67,431
+065 Bramblestown,15,106
+066 Castlebanny,8,68
+067 Castlegannon,8,53
+068 Coolhill,20,115
+069 Danesfort,24,210
+070 Ennisnag,40,233
+071 Famma,23,124
+072 Freaghana,17,82
+073 Goresbridge,19,213
+074 Graiguenamanagh,96,639
+075 Inistioge,54,341
+076 Jerpoint Church,56,363
+077 Kilfane,17,112
+078 Kilkeasy,24,163
+079 Kiltorcan,11,70
+080 Knocktopher,38,245
+081 Pleberstown,13,86
+082 Powerstown,35,189
+083 Stonyford,49,280
+084 Thomastown,174,947
+085 Tullaherin,14,107
+086 Ullard,26,117
+087 Woolengrange,23,130
+088 Balleen,19,203
+089 Ballyconra,20,111
+090 Baunmore,4,64
+091 Clomantagh,22,125
+092 Galmoy,17,124
+093 Glashare,17,151
+094 Johnstown,52,286
+095 Lisdowney,19,119
+096 Rathbeagh,21,119
+097 Tubbridbrittain,20,131
+098 Urlingford,64,421
+099 Aglish,85,331
+100 Ballincrea,24,143
+101 Dunkitt,90,438
+102 Farnoge,19,132
+103 Kilbeacon,21,97
+104 Kilbride,33,166
+105 Kilcolumb,52,275
+106 Kilculliheen (part),314,"2,244"
+107 Killahy,61,285
+108 Kilmakevoge,37,183
+109 Pollrone,84,526
+110 Portnascully,86,428
+111 Rathpatrick,99,472
+112 Rossinan,47,274
+113 Ullid,65,437
+001 Abbeyleix,142,"1,063"
+002 Aghmacart,23,158
+003 Ballinakill,35,331
+004 Ballyroan,57,456
+005 Blandsfort,10,126
+006 Caher,6,44
+007 Castletown,37,280
+008 Clash,13,140
+009 Clonkeen,45,285
+010 Colt,10,76
+011 Cuffsborough,20,159
+012 Cullahill,22,161
+013 Cullenagh,6,53
+014 Donaghmore,12,92
+015 Donore,19,191
+016 Dunmore,14,120
+017 Durrow,74,565
+018 Dysartgallen,12,102
+019 Fossy,9,71
+020 Grantstown,23,183
+021 Kilcoke,6,70
+022 Kildellig,14,117
+023 Killermogh,11,149
+024 Kilnaseer,20,136
+025 Raheen,30,200
+026 Rathdowney,61,454
+027 Timahoe,44,281
+028 Ballyadams,21,170
+029 Ballylynan,86,580
+030 Barrowhouse,26,191
+031 Curraclone,10,97
+032 Killabban,29,203
+033 Luggacurren,15,131
+034 Moyanna,23,175
+035 Rathaspick,19,99
+036 Stradbally,68,673
+037 Tankardstown,20,137
+038 Timogue,23,155
+039 Vicarstown,15,84
+040 Arderin,17,110
+041 Ballybrittas,79,545
+042 Ballycarroll,22,159
+043 Ballyfin,40,276
+044 Borris,89,619
+046 Brisha / Capard,15,139
+047 Cappalough,23,146
+048 Cardtown,10,80
+049 Castlecuffe,20,155
+050 Clonaslee,35,335
+051 Clondarrig,113,778
+052 Clonin,8,99
+053 Coolrain,17,105
+054 Dangans,66,509
+055 Emo,81,436
+056 Garrymore,16,86
+057 Graigue,15,66
+058 Jamestown,32,198
+059 Kilcolmanbane,41,272
+060 Kilmullen,42,234
+061 Kilmurry,14,112
+062 Lacka,12,116
+063 Marymount,11,63
+064 Meelick,17,153
+065 Mountmellick Rural,65,418
+066 Mountmellick Urban,131,"1,020"
+067 Mountrath,113,850
+068 Nealstown,5,42
+069 O'More's Forest,41,190
+070 Portarlington South,399,"2,695"
+071 Portlaoighise (Maryborough) Rural,720,"6,254"
+072 Portlaoighise (Maryborough) Urban,197,"1,461"
+073 Rearymore,10,110
+074 Rosenallis,24,181
+075 Sallyford,28,241
+076 Shaen,61,398
+077 Tinnahinch,8,72
+078 Trumra,14,100
+079 Ballybrophy,13,77
+080 Borris-in-Ossory,28,314
+081 Clonmore,12,85
+082 Errill,15,165
+083 Kyle,12,93
+084 Kyle South,21,118
+085 Moneenalassa,7,72
+086 Moneymore,7,57
+087 Rathsaran,28,236
+088 Ardough,24,148
+089 Arless,15,147
+090 Ballickmoyler,34,261
+091 Ballylehane,6,63
+092 Doonane,30,256
+093 Farnans,10,84
+094 Graigue Rural,315,"1,950"
+095 Newtown,22,120
+096 Rossmore,41,180
+097 Shrule,9,120
+098 Turra,22,160
+001 Longford No. 1 Urban,149,"1,008"
+002 Longford No. 2 Urban,60,456
+003 Agharra,28,150
+004 Ballymahon,177,"1,030"
+005 Cashel East,19,126
+006 Cashel West,26,247
+007 Doory,23,192
+008 Forgney,34,203
+009 Foxhall,18,175
+010 Kilcommock,52,377
+011 Kilglass,35,278
+012 Ledwithstown,22,138
+013 Abbeylara,21,123
+014 Ballinalee,29,219
+015 Ballymuigh,12,97
+016 Bunlahy,8,81
+017 Columbkille,25,250
+018 Coolamber,26,158
+019 Creevy,21,143
+020 Crosagstown,18,102
+021 Currygrane,7,57
+022 Dalystown,6,74
+023 Drummeel,4,42
+035 Firry / Newgrove,9,67
+025 Gelshagh,19,147
+026 Granard Rural,9,123
+027 Granard Urban,42,400
+028 Knockanbaun,8,65
+029 Lislea,5,47
+030 Meathas Truim,115,791
+031 Milltown,21,141
+032 Moatfarrell,10,82
+033 Moyne,17,124
+034 Mullanalaghta,18,115
+036 Sonnagh,17,91
+037 Aghaboy,25,253
+038 Ardagh East,29,268
+039 Ardagh West,27,192
+040 Ballinamuck East,35,239
+041 Ballinamuck West,27,173
+042 Breanrisk,42,314
+043 Caldragh,121,889
+044 Cloondara,44,236
+045 Cloonee,53,299
+046 Corboy,19,153
+047 Drumgort,27,167
+048 Drumlish,80,572
+049 Killashee,19,179
+050 Killoe,8,96
+051 Longford Rural,262,"1,800"
+052 Mountdavis,17,103
+053 Moydow,50,321
+054 Newtown Forbes,47,342
+055 Rathcline,100,560
+001 Fair Gate,481,"3,877"
+002 St. Laurence Gate,208,"1,751"
+003 West Gate,305,"2,392"
+004 Dundalk Urban No. 1,81,763
+005 Dundalk Urban No. 2,54,423
+006 Dundalk Urban No. 3,92,670
+007 Dundalk Urban No. 4,336,"2,523"
+008 Ardee Rural,198,"1,178"
+009 Ardee Urban,302,"1,816"
+010 Castlebellingham,114,696
+011 Clonkeen,47,311
+012 Collon,120,792
+013 Dromin,47,260
+014 Dromiskin,160,917
+015 Drumcar,91,559
+016 Dunleer,193,"1,163"
+017 Stabannan,46,259
+018 Tallanstown,76,454
+019 Ballymascanlan,171,860
+020 Barronstown,57,292
+021 Carlingford,128,778
+022 Castlering,71,437
+023 Castletown,208,"1,425"
+024 Creggan Upper,67,326
+025 Darver,44,313
+026 Drummullagh,78,465
+027 Dundalk Rural,799,"6,532"
+028 Faughart,69,392
+029 Greenore,77,486
+030 Haggardstown,419,"2,849"
+031 Jenkinstown,78,482
+032 Killanny,55,340
+033 Louth,100,626
+034 Mansfieldstown,55,356
+035 Rathcor,89,544
+036 Ravensdale,77,384
+037 Clogher,234,"1,323"
+038 Dysart,72,398
+039 Monasterboice,112,599
+040 Mullary,125,757
+041 St. Peter's,524,"3,774"
+042 Termonfeckin,235,"1,471"
+047 St. Mary's (Part Urban),293,"2,699"
+001 Ceannanus Mór (Kells) Urban,115,704
+002 Navan Urban,215,"1,580"
+003 Trim Urban,80,592
+004 Drumcondra,76,526
+005 Grangegeeth,41,264
+006 Killary,85,536
+007 Culmullin,105,496
+008 Donaghmore,775,"5,569"
+009 Dunboyne,656,"4,643"
+010 Dunshaughlin,421,"2,611"
+011 Kilbrew,221,"1,718"
+012 Killeen,60,531
+013 Kilmessan,118,718
+014 Kilmore,113,726
+015 Rathfeigh,74,438
+016 Ratoath,629,"4,859"
+017 Rodanstown,70,445
+018 Skreen,125,662
+019 Ardagh,47,275
+020 Ballinlough,10,77
+021 Balrathboyne,33,210
+022 Boherboy,15,148
+023 Burry,15,114
+024 Carrickleck,44,185
+025 Castlekeeran,34,188
+026 Ceannanus Mór (Kells) Rural,261,"1,842"
+027 Cruicetown,27,182
+028 Girley,28,160
+029 Kilmainham,47,284
+030 Kilskeer,26,156
+031 Loughan,27,158
+032 Maperath,39,180
+033 Martry,56,322
+034 Moybolgue,25,125
+035 Moynalty,43,270
+036 Newcastle,34,190
+037 Newtown,55,357
+038 Nobber,34,336
+039 Posseckstown,23,89
+040 Staholmog,27,164
+041 Tailtin,63,389
+042 Trohanny,21,144
+043 Ardcath,130,845
+044 Duleek,283,"2,234"
+045 Julianstown,486,"3,956"
+046 Mellifont,36,245
+047 St. Mary's (Part Rural),709,"5,019"
+048 Stamullin,290,"2,132"
+049 Ardbraccan,149,862
+050 Ardmulchan,68,447
+051 Bective,74,475
+052 Castletown,68,408
+053 Domhnach Phádraig,127,764
+054 Kentstown,129,925
+055 Navan Rural,"1,596","11,246"
+056 Painestown,85,517
+057 Rathkenny,38,266
+058 Slane,108,775
+059 Stackallan,51,277
+060 Tara,101,494
+061 Crossakeel,27,226
+062 Crosskeys,23,138
+063 Killallon,28,133
+064 Killeagh,29,162
+065 Knocklough,17,88
+066 Moylagh,27,177
+067 Oldcastle,154,856
+068 Stonefield,11,94
+069 Ardnamullan,57,335
+070 Baile Átha Buí,166,"1,029"
+071 Ballyboggan,24,215
+072 Ballyconnell,57,329
+073 Castlejordan,18,160
+074 Castlerickard,162,907
+075 Cloghbrack,47,198
+076 Clonmacduff,19,208
+077 Gallow,81,444
+078 Galtrim,65,327
+079 Grennanstown,83,535
+080 Hill of Down,38,241
+081 Innfield,332,"1,884"
+082 Cill Bhríde,33,214
+083 Kilcooly,18,151
+084 Kildalky,86,507
+085 Killaconnigan,100,801
+086 Killyon,30,218
+087 Laracor,36,274
+088 Rahinstown,36,223
+089 Rathmolyon,107,598
+090 An Ráth Mhór,59,432
+091 Summerhill,91,568
+092 Trim Rural,533,"3,685"
+001 Birr Urban,218,"1,589"
+002 Tullamore Urban,525,"4,253"
+003 Ballycumber,49,280
+004 Banagher,146,736
+005 Birr Rural,66,471
+006 Broughal,6,59
+007 Cloghan,62,386
+008 Clonmacnoise,15,150
+009 Derrinboy,24,134
+010 Derryad,19,113
+011 Doon,37,213
+012 Dromoyle,14,135
+013 Drumcullen,35,180
+014 Eglish,11,66
+015 Ferbane,84,461
+016 Gallen,35,174
+017 Hinds,26,149
+018 Huntston,35,136
+019 Kilcolman,29,168
+020 Kilcormac,77,493
+021 Killyon,15,119
+022 Kinnitty,25,216
+023 Knockbarron,18,88
+024 Lea,15,127
+025 Letter,7,62
+026 Lumcloon,24,142
+027 Lusmagh,37,227
+028 Mounterin,7,103
+029 Moyclare,49,248
+030 Seirkieran,31,201
+031 Shannonbridge,23,101
+032 Shannonharbour,18,141
+033 Srah,41,218
+035 Ballyburly,88,468
+036 Ballymacwilliam,42,250
+037 Bracknagh,78,403
+038 Clonbulloge,42,290
+039 Clonmore,24,168
+040 Croghan,23,230
+041 Edenderry Rural,52,320
+042 Edenderry Urban,363,"2,589"
+034 Esker / Ballaghassaan,32,192
+044 Knockdrin,11,68
+045 Monasteroris,56,336
+046 Aghancon,21,145
+047 Ballincor,11,71
+048 Barna,6,64
+049 Cangort,9,77
+050 Cullenwaine,34,287
+051 Dunkerrin,28,141
+052 Ettagh,34,222
+053 Gorteen,17,115
+054 Mountheaton,19,232
+055 Roscomroe,3,56
+056 Shinrone,49,331
+057 Templeharry,10,96
+058 Tulla,5,41
+059 Ballycommon,39,270
+060 Ballyshear,26,157
+061 Bawn,20,144
+062 Cappancur,93,638
+063 Clara,153,"1,358"
+064 Clonygowan,40,220
+065 Daingean,66,554
+066 Derrycooley,24,103
+067 Durrow,63,343
+068 Geashill,88,669
+069 Gorteen,20,144
+070 Hammerlane,42,252
+071 Kilclonfert,20,151
+072 Kilcumreragh,46,245
+073 Killeigh,66,520
+074 Killooly,24,120
+075 Killoughy,55,318
+076 Mountbriscoe,11,94
+077 O'Dempsey,8,60
+078 Portarlington North,132,846
+079 Rahan,43,288
+080 Raheenakeeran,19,147
+081 Rathfeston,27,168
+082 Rathrobin,27,165
+083 Screggan,84,565
+084 Silverbrook,41,347
+085 Tinamuck,25,116
+086 Tinnycross,25,177
+087 Tullamore Rural,212,"1,364"
+001 Athlone East Urban,226,"1,639"
+002 Athlone West Urban,128,"1,207"
+003 Athlone East Rural,383,"2,675"
+004 Auburn,58,337
+005 Ballybroder,16,96
+006 Bellanalack,40,257
+007 Carn,45,337
+008 Castledaly,38,313
+009 Glassan,61,395
+010 Kilcumreragh,32,153
+011 Killinure,31,188
+012 Moate,166,"1,268"
+013 Mount Temple,46,284
+014 Moydrum,200,"1,283"
+015 Muckanagh,12,69
+016 Tubbrit,34,293
+017 Umma,12,129
+018 Ardnagragh,17,184
+019 Ballymore,27,288
+020 Doonis,18,105
+021 Drumraney,20,115
+022 Noughaval,28,173
+023 Piercetown,5,45
+024 Templepatrick,8,80
+025 Winetown,9,55
+026 Boherquill,12,47
+027 Coole,13,93
+028 Coolure,27,125
+029 Finnea,17,102
+030 Glore,12,74
+031 Knockarrow,4,42
+032 Rathowen,16,143
+033 Street,10,87
+034 Ballinlough,13,69
+035 Ballyhealy,14,118
+036 Ballynaskeagh,21,110
+037 Bracklin,21,101
+038 Clonarney,38,188
+039 Collinstown,49,189
+040 Copperalley,27,114
+041 Delvin,56,373
+042 Faughalstown,16,92
+043 Fore East,36,162
+044 Fore West,31,165
+045 Hilltown,15,112
+046 Kilcumny,11,72
+047 Killua,60,422
+048 Killulagh,31,178
+049 Kilpatrick,14,87
+050 Kinturk,72,461
+051 Riverdale,38,168
+052 Rosmead,21,131
+053 Ardnaglew,19,108
+085 Ballinalack / Lackan,32,193
+055 Ballykilmore,59,278
+056 Ballymorin,19,148
+057 Ballynagore,35,215
+058 Belvidere,55,319
+059 Carrick,36,158
+060 Castle,61,389
+061 Castlelost,92,590
+062 Castletown,49,291
+063 Churchtown,27,146
+064 Cloghan,21,155
+065 Clonfad,35,238
+066 Clonlost,31,196
+067 Derrymore,19,117
+068 Dysart,16,93
+069 Emper,12,95
+070 Enniscoffey,32,172
+071 Gaybrook,37,191
+072 Glenlough,10,75
+073 Greenpark,13,105
+074 Griffinstown,52,247
+075 Heathstown,53,298
+076 Hopestown,41,234
+077 Huntingdon,34,183
+078 Jamestown,11,58
+079 Kilbeggan,96,656
+080 Kilbixy,18,210
+081 Killare,19,141
+082 Killucan,118,702
+083 Kinnegad,147,"1,087"
+084 Knockdrin,35,250
+086 Lauree,14,73
+087 Middleton,33,153
+088 Milltown,20,103
+089 Mullingar Rural,596,"4,372"
+090 Mullingar North Urban,252,"1,721"
+091 Mullingar South Urban,273,"1,820"
+092 Multyfarnham,38,259
+093 Newtown,13,88
+094 Owel,42,196
+095 Portloman,13,138
+096 Raharney,22,201
+097 Rahugh,24,127
+098 Rathconrath,19,159
+099 Russellstown,28,219
+100 Skeagh,14,99
+101 Sonna,28,150
+102 Stonehall,12,93
+103 Streamstown,35,156
+104 Taghmon,26,169
+105 Tullaghan,25,178
+106 Woodland,15,121
+001 Enniscorthy Urban,98,773
+002 New Ross Urban,179,"1,311"
+003 Rosbercon Urban,60,254
+004 Wexford No. 1 Urban,77,589
+005 Wexford No. 2 Urban,159,"1,478"
+006 Wexford No. 3 Urban,58,487
+007 Ballindaggan,48,326
+008 Ballycarney,22,182
+009 Ballyhoge,63,489
+010 Ballyhuskard,91,645
+011 Ballymore,26,187
+012 Ballyvaldon,39,281
+013 Bolaboy,60,443
+014 Bree,92,546
+015 Castleboro,46,386
+016 Castledockrell,17,198
+017 Castle Ellis,61,469
+018 Castle Talbot,44,310
+019 Clonroche,42,434
+020 Edermine,58,536
+021 Enniscorthy Rural,486,"3,452"
+022 Ferns,65,582
+023 Kilbora,20,160
+024 Kilcormick,43,263
+025 Killann,55,455
+026 Kilmallock,87,595
+027 Killoughrum,38,395
+028 Kilrush,19,196
+029 Kiltealy,29,192
+030 Marshalstown,64,467
+031 Moyacomb,25,176
+032 Newtownbarry,122,769
+033 Rossard,24,180
+034 St. Mary's,43,313
+035 The Harrow,27,201
+036 The Leap,46,423
+037 Tinnacross,51,397
+038 Tombrack,41,301
+039 Ardamine,188,"1,201"
+040 Balloughter,21,214
+041 Ballybeg,32,234
+042 Ballycanew,62,421
+043 Ballyellis,27,156
+044 Ballygarrett,48,316
+045 Ballylarkin,57,314
+046 Ballynestragh,74,481
+047 Cahore,31,159
+048 Coolgreany,65,446
+049 Courtown,138,"1,029"
+050 Ford,28,209
+051 Gorey Rural,336,"2,604"
+052 Gorey Urban,157,"1,313"
+053 Huntingtown,9,125
+054 Kilcomb,58,404
+055 Kilgorman,53,323
+056 Killenagh,26,208
+057 Killincooly,29,199
+058 Kilnahue,19,188
+059 Limerick,46,385
+060 Monamolin,38,333
+061 Monaseed,34,275
+062 Rossminoge,31,264
+063 Wells,35,300
+064 Wingfield,41,380
+065 Adamstown,33,216
+066 Ballyanne,41,290
+067 Ballyhack,81,465
+068 Barrack Village,8,38
+069 Barronstown,52,244
+070 Carnagh,38,224
+071 Carrickbyrne,40,213
+072 Clongeen,50,348
+073 Clonleigh,21,186
+074 Dunmain,21,126
+075 Fethard,52,324
+076 Horetown,31,242
+077 Inch,40,216
+078 Kilgarvan,20,140
+079 Killesk,43,274
+080 Kilmokea,46,259
+081 Newbawn,38,215
+082 New Ross Rural,246,"1,468"
+083 Oldcourt,49,311
+084 Old Ross,38,195
+085 Rathroe,62,322
+086 Rochestown,12,98
+087 Templeludigan,21,187
+088 Templetown,45,221
+089 Tintern,106,613
+090 Whitechurch,58,251
+091 Whitemoor,47,231
+092 Ardcavan,137,"1,150"
+093 Ardcolm,58,350
+094 Artramon,45,255
+095 Aughwilliam,36,221
+096 Ballymitty,32,189
+097 Bannow,74,423
+098 Bridgetown,59,321
+099 Carrick,129,753
+100 Drinagh,56,464
+101 Duncormick,40,251
+102 Forth,54,310
+103 Glynn,31,231
+104 Harperstown,32,207
+105 Harristown,37,193
+106 Kilbride,16,140
+107 Kilcowan,32,215
+108 Killag,21,183
+109 Killinick,53,344
+110 Killurin,40,301
+111 Kilmore,109,819
+112 Kilpatrick,35,317
+113 Kilscoran,49,349
+114 Lady's Island,50,233
+115 Mayglass,44,247
+116 Newcastle,36,230
+117 Rathaspick,99,730
+118 Rosslare,118,732
+119 St. Helen's,128,832
+120 Tacumshin,25,214
+121 Taghmon,37,333
+122 Tomhaggard,31,224
+123 Wexford Rural,643,"4,969"
+124 Whitechurch,21,220
+001 Arklow No. 1 Urban,543,"3,572"
+002 Arklow No. 2 Urban,168,"1,157"
+003 Bray No. 1,74,758
+004 Bray No. 2,380,"2,676"
+005 Bray No. 3,372,"2,719"
+006 Rathmichael (Bray),69,838
+007 Wicklow Urban,389,"2,565"
+008 Ballinguile,8,58
+009 Baltinglass,155,993
+010 Blessington,308,"1,997"
+011 Burgage,142,874
+012 Donaghmore,33,171
+013 Donard,35,218
+014 Dunlavin,83,509
+015 Eadestown,15,84
+016 Hartstown,16,123
+017 Hollywood,70,325
+018 Humewood,27,147
+019 Imael North,16,107
+020 Imael South,10,120
+021 Kilbride,85,442
+022 Lackan,67,344
+023 Lugglass,13,77
+024 Rathdangan,36,177
+025 Rathsallagh,11,120
+026 Stratford,28,196
+027 Talbotstown,18,196
+028 The Grange,25,190
+029 Tober,40,202
+030 Togher,29,136
+031 Tuckmill,16,112
+032 Delgany,339,"2,464"
+033 Enniskerry,170,"1,182"
+034 Greystones,390,"2,934"
+035 Kilmacanoge,745,"6,289"
+036 Powerscourt,43,364
+037 Altidore,29,170
+038 Arklow Rural,72,526
+039 Aughrim,106,646
+040 Avoca,48,277
+041 Ballinaclash,31,252
+042 Ballinacor,25,152
+043 Ballinderry,32,208
+044 Ballyarthur,77,445
+045 Ballycullen,18,148
+046 Brockagh,53,358
+047 Calary,28,147
+048 Cronebane,32,196
+049 Dunganstown East,38,328
+050 Dunganstown South,50,356
+051 Dunganstown West,22,199
+052 Ennereilly,22,169
+053 Glendalough,27,113
+054 Glenealy,155,"1,153"
+055 Kilbride,69,307
+056 Kilcoole,564,"4,877"
+057 Killiskey,56,432
+058 Knockrath,17,94
+059 Moneystown,23,146
+060 Newcastle Lower,128,"1,003"
+061 Newcastle Upper,260,"1,782"
+062 Oldtown,50,275
+063 Rathdrum,118,923
+064 Togher,88,560
+065 Trooperstown,35,146
+066 Wicklow Rural,414,"3,265"
+067 Aghowle,12,104
+068 Ballingate,32,163
+069 Ballinglen,15,101
+070 Ballybeg,6,75
+071 Carnew,92,607
+072 Coolattin,19,115
+073 Coolballintaggart,27,188
+074 Coolboy,32,240
+075 Cronelea,7,79
+076 Kilballyowen,28,155
+077 Killinure,16,139
+078 Kilpipe,25,196
+079 Money,6,61
+080 Rath,14,118
+081 Shillelagh,32,233
+082 Tinahely,79,586
+001 Ennis No. 1 Urban,57,489
+002 Ennis No. 2 Urban,61,640
+003 Ennis No. 3 Urban,10,99
+004 Ennis No. 4 Urban,85,519
+005 Kilrush Urban,123,749
+006 Abbey,36,192
+007 Carran,1,43
+009 Derreen,6,37
+010 Drumcreehy,17,172
+011 Gleninagh,14,65
+012 Lisdoonvarna,48,311
+013 Mountelva,5,39
+008 Noughaval / Castletown,9,81
+015 Oughtmama,8,62
+016 Rathborney,4,43
+018 Boston,13,153
+019 Corrofin,87,536
+017 Glenroe / Ballyeighter,15,88
+021 Killinaboy,19,152
+022 Kiltoraght,9,74
+023 Muckanagh,18,148
+024 Rath,16,109
+025 Ruan,38,271
+026 Clareabbey,228,"1,253"
+027 Clenagh,698,"4,350"
+028 Crusheen,62,447
+029 Doora,152,890
+030 Drumline,60,330
+031 Dysert,19,141
+032 Ennis Rural,"1,144","7,508"
+033 Furroor,17,118
+034 Kilcloher,59,317
+035 Killanniv,53,330
+036 Killone,40,304
+037 Kilnamona,77,383
+038 Kilraghtis,26,207
+039 Kinturk,17,113
+040 Newmarket,106,794
+041 Sixmilebridge,177,"1,149"
+042 Spancelhill,51,314
+043 Templemaley,104,505
+044 Tomfinlough,54,279
+045 Urlan,63,399
+046 Annagh,40,216
+047 Ballagh,12,94
+048 Ballyea,50,297
+049 Ballysteen,14,167
+050 Ballyvaskin,28,152
+051 Cloghaun,15,80
+052 Cloonanaha,14,117
+053 Clooney,19,98
+054 Ennistimon,105,844
+055 Formoyle,12,86
+056 Kilfenora,17,157
+057 Killaspuglonane,13,131
+058 Killilagh,53,303
+059 Kilshanny,11,57
+060 Liscannor,21,153
+061 Lurraga,22,116
+062 Magherareagh,23,131
+063 Milltown Malbay,120,635
+064 Moy,37,303
+065 Smithstown,9,63
+066 Ballynacally,16,92
+067 Clondagad,34,311
+068 Coolmeen,19,100
+069 Kilchreest,32,172
+070 Kilfiddane,28,157
+071 Killadysert,64,366
+072 Killofin,10,126
+073 Kilmurry,15,124
+074 Liscasey,46,237
+075 Lisheen,49,281
+076 Rinealon,11,83
+077 Cahermurphy,11,87
+078 Cloonadrum,20,169
+079 Clooncoorha,23,143
+080 Cooraclare,33,215
+081 Creegh,40,188
+082 Doonbeg,49,309
+083 Drumellihy,23,168
+084 Einagh,17,134
+085 Glenmore,17,136
+086 Kilballyowen,6,97
+087 Kilfearagh,22,118
+088 Kilkee,37,276
+089 Killard,17,105
+090 Killimer,29,190
+091 Kilmihil,41,239
+092 Kilmurry,46,301
+093 Kilrush Rural,67,292
+094 Knock,11,96
+095 Knocknaboley,13,105
+096 Knocknagore,15,84
+097 Moveen,3,30
+098 Moyarta,10,88
+099 Mullagh,8,88
+100 Querrin,16,78
+101 Rahona,11,114
+102 St. Martin's,6,39
+103 Tullig,10,44
+104 Tullycreen,12,55
+105 Ballycannan,54,408
+106 Ballyglass,392,"2,420"
+107 Cappavilla,20,136
+108 Castlecrine,41,213
+109 Cloghera,47,227
+110 Cloontra,19,112
+111 Cratloe,112,596
+112 Fahymore,28,162
+113 Killeely,58,335
+114 Killokennedy,14,61
+115 Kilseily,56,302
+116 Kiltenanlea,147,773
+117 Lackareagh,11,60
+118 Mountievers,112,555
+119 O'Briensbridge,53,248
+120 Ayle,19,118
+121 Boherglass,26,124
+122 Caherhurley,9,71
+124 Cappaghabaun,11,69
+125 Carrowbaun,9,54
+126 Cloonusker,10,83
+127 Coolreagh,13,72
+123 Corlea / Cahermurphy,18,63
+129 Derrynagittagh,9,62
+130 Drummaan,53,228
+131 Feakle,22,142
+133 Inishcaltra North / Inishcaltra South,30,126
+134 Killaloe,148,818
+135 Mountshannon,30,161
+136 Ogonnelloe,48,278
+137 Scarriff,81,484
+138 Ballyblood,15,63
+139 Ballynahinch,17,111
+140 Caher,7,90
+141 Clooney,35,225
+142 Dangan,20,95
+143 Glendree,6,65
+144 Kilkishen,72,395
+145 Killanena,11,96
+146 Killuran,38,195
+147 Kiltannon,16,78
+148 Kyle,25,132
+149 Loughea,10,52
+150 Newgrove,26,118
+151 Quin,121,672
+152 Rathclooney,11,71
+153 Rossroe,58,315
+154 Toberbreeda,12,72
+155 Tulla,84,446
+001 Ballinlough A,47,329
+002 Ballinlough B,112,729
+003 Ballinlough C,105,652
+004 Ballyphehane A,34,246
+005 Ballyphehane B,43,311
+006 Bishopstown A,64,458
+007 Bishopstown B,98,578
+008 Bishopstown C,333,"1,695"
+009 Bishopstown D,108,528
+010 Bishopstown E,220,"1,401"
+011 Blackpool A,30,255
+012 Blackpool B,137,"1,168"
+013 Browningstown,59,395
+014 Centre A,57,391
+015 Centre B,103,"1,149"
+016 Churchfield,51,560
+017 City Hall A,58,452
+018 City Hall B,83,699
+019 Commons,46,370
+020 Evergreen,87,725
+021 Fair Hill A,32,216
+022 Fair Hill B,21,188
+023 Fair Hill C,175,"1,332"
+024 Farranferris A,77,765
+025 Farranferris B,21,270
+026 Farranferris C,24,191
+027 Gillabbey A,91,851
+028 Gillabbey B,37,252
+029 Gillabbey C,55,462
+030 Glasheen A,44,298
+031 Glasheen B,27,266
+032 Glasheen C,135,929
+033 Greenmount,99,890
+034 Gurranebraher A,29,224
+035 Gurranebraher B,35,199
+036 Gurranebraher C,41,385
+037 Gurranebraher D,37,325
+038 Gurranebraher E,36,381
+039 Knocknaheeny,107,"1,109"
+040 Knockrea A,116,722
+041 Knockrea B,86,437
+042 Mahon A,325,"2,068"
+043 Mahon B,259,"2,050"
+044 Mahon C,247,"1,318"
+045 Mardyke,46,298
+046 Mayfield,75,778
+047 Montenotte A,130,772
+048 Montenotte B,148,876
+049 Pouladuff A,38,291
+050 Pouladuff B,68,621
+051 St. Patrick's A,84,782
+052 St. Patrick's B,72,623
+053 St. Patrick's C,65,441
+054 Shanakiel,200,"1,548"
+055 Shandon A,94,989
+056 Shandon B,69,669
+057 South Gate A,105,"1,212"
+058 South Gate B,37,438
+059 Sundays Well A,33,318
+060 Sundays Well B,62,457
+061 The Glen A,83,649
+062 The Glen B,224,"1,367"
+063 The Lough,77,594
+064 Tivoli A,130,756
+065 Tivoli B,180,"1,140"
+066 Togher A,88,639
+067 Togher B,37,259
+068 Tramore A,63,382
+069 Tramore B,71,434
+070 Tramore C,193,"1,317"
+071 Turners Cross A,60,429
+072 Turners Cross B,75,526
+073 Turners Cross C,46,305
+074 Turners Cross D,39,180
+001 Clonakilty Urban,265,"1,659"
+002 Cobh Urban,473,"2,433"
+003 Fermoy Urban,150,925
+004 Kinsale Urban,140,970
+005 Macroom Urban,263,"1,669"
+006 Mallow North Urban,375,"2,407"
+007 Mallow South Urban,178,967
+008 Midleton Urban,202,"1,583"
+009 Skibbereen Urban,169,"1,064"
+010 Youghal Urban,425,"2,373"
+011 Ballinadee,43,251
+012 Ballygroman,142,809
+013 Ballymodan,292,"1,787"
+014 Ballymurphy,88,438
+015 Bandon,154,855
+016 Baurleigh,16,152
+017 Bengour,14,133
+018 Boulteen,46,278
+019 Brinny,44,285
+020 Cashel,30,197
+021 Inishannon,158,888
+022 Kilbonane,107,579
+023 Kilbrittain,30,275
+024 Kilbrogan,190,"1,035"
+025 Knockavilly,28,208
+026 Knockroe,62,334
+027 Moviddy,102,591
+028 Murragh,27,221
+029 Rathclarin,56,284
+030 Teadies,73,383
+031 Templemartin,68,349
+032 Ahil,11,65
+046 Bantry Rural / Whiddy,72,425
+034 Bantry Urban,184,"1,162"
+035 Douce,12,90
+036 Durrus East,21,113
+037 Durrus West,41,243
+038 Glanlough,10,72
+039 Glengarriff,66,397
+040 Kealkill,39,245
+041 Kilcaskan,57,296
+042 Mealagh,19,131
+043 Scart,19,144
+044 Seefin,33,99
+045 Sheepshead,7,63
+047 Adrigole,37,181
+048 Bear,10,66
+049 Coulagh,38,224
+050 Curryglass,30,180
+051 Kilcatherine,68,322
+052 Killaconenagh,79,641
+053 Kilnamanagh,18,134
+054 Abbeymahon,43,272
+055 Ardfield,38,338
+056 Argideen,17,172
+057 Butlerstown,25,168
+058 Cahermore,29,149
+059 Castleventry,15,128
+060 Clonakilty Rural,129,839
+061 Coolcraheen,46,302
+062 Courtmacsherry,79,375
+063 Derry,47,234
+064 Kilkerranmore,41,227
+065 Kilmaloda East,23,170
+066 Kilmaloda West,13,94
+067 Kilmoylerane,16,128
+068 Kilnagross,37,278
+069 Knocks,21,133
+070 Rathbarry,37,218
+071 Rosscarbery,66,428
+072 Rossmore,26,139
+073 Templeomalus,42,314
+074 Timoleague,46,293
+075 Ballincollig,"1,321","8,292"
+076 Ballygarvan,148,764
+077 Ballynaglogh,27,188
+078 Bishopstown (Part Rural),27,157
+079 Blackpool,75,406
+080 Blarney,393,"2,369"
+081 Caherlag,530,"3,364"
+082 Carrigaline,"1,002","5,312"
+083 Carrignavar,93,556
+084 Carrigrohane Beg,140,647
+085 Cobh Rural,630,"3,622"
+086 Douglas,"1,638","10,064"
+087 Dripsey,120,625
+088 Dunderrow,151,736
+089 Firmount,62,314
+090 Glenville,46,301
+091 Greenfort,61,327
+092 Inishkenny,412,"2,771"
+093 Killeagh,39,298
+094 Knockantota,65,447
+095 Knockraha,126,665
+096 Lehenagh,683,"4,657"
+097 Matehy,240,"1,329"
+098 Monkstown Rural,89,486
+099 Monkstown Urban,397,"2,214"
+100 Ovens,199,"1,204"
+101 Rathcooney (Part Rural),571,"3,671"
+102 Riverstown,333,"2,003"
+103 St. Mary's (Part Rural),336,"2,087"
+104 Whitechurch,242,"1,324"
+105 Aultagh,24,145
+106 Ballingurteen,45,267
+107 Ballymoney,54,316
+108 Béal Átha an Ghaorthaidh,10,83
+109 Bealock,17,116
+110 Carrigboy,29,193
+111 Castletown,24,219
+112 Coolmountain,21,151
+113 Drinagh,13,100
+114 Dunmanway North,78,416
+115 Dunmanway South,94,531
+116 Garrown,23,118
+117 Kinneigh,27,205
+118 Manch,34,227
+119 Milane,6,74
+120 Teerelton,36,256
+121 Aghern,20,109
+122 Ballyhooly,66,357
+123 Ballynoe,45,296
+124 Carrig,12,74
+125 Castlecooke,15,91
+126 Castle Hyde,57,334
+127 Castlelyons,81,461
+128 Castletownroche,41,351
+129 Coole,88,475
+130 Curraglass,27,167
+131 Fermoy Rural,310,"1,883"
+132 Glanworth East,28,187
+133 Glanworth West,78,471
+134 Gortnaskehy,22,124
+135 Gortroe,50,346
+136 Kilcor,27,170
+137 Kilcummer,14,109
+138 Kildinan,43,275
+139 Killathy,27,170
+140 Kilworth,112,744
+141 Knockmourne,65,495
+142 Leitrim,28,175
+143 Rathcormack,175,"1,096"
+144 Watergrasshill,93,709
+145 Allow,36,205
+146 Ballyhoolahan,11,129
+147 Banteer,55,301
+148 Barleyhill,39,227
+149 Barnacurra,23,100
+150 Bawncross,25,158
+151 Boherboy,56,271
+152 Castlecor,32,184
+153 Castlemagner,49,312
+154 Clonfert East,21,151
+155 Clonfert West,11,74
+156 Clonmeen,28,140
+157 Coolclogh,31,185
+158 Dromina,36,255
+159 Glenlara,31,211
+160 Gortmore,24,99
+161 Greenane,98,540
+162 Kanturk,151,754
+163 Kilbrin,28,155
+164 Kilmeen,23,126
+165 Knockatooan,28,158
+166 Knocktemple,30,175
+167 Meens,32,206
+168 Milford,39,293
+169 Nad,9,36
+170 Newmarket,137,626
+171 Newtown,71,381
+172 Roskeen,35,192
+173 Rosnalee,26,169
+174 Rowls,10,64
+175 Tincoora,42,205
+176 Tullylease,41,188
+177 Williamstown,45,217
+178 Ballinspittle,42,262
+179 Ballyfeard,34,167
+180 Ballyfoyle,32,158
+181 Ballymackean,28,148
+182 Ballymartle,111,546
+183 Carrigaline,164,"1,088"
+184 Coolmain,31,200
+185 Cullen,43,236
+186 Farranbrien,43,238
+187 Kilmonoge,91,554
+188 Kilpatrick,41,240
+189 Kinsale Rural,350,"2,067"
+190 Kinure,27,154
+191 Laherne,45,238
+192 Leighmoney,62,328
+193 Liscleary,357,"1,934"
+194 Nohaval,21,146
+195 Templebreedy,309,"1,563"
+196 Templemichael,59,321
+197 Aghinagh,41,221
+198 Aglish,144,655
+199 Béal Átha an Ghaorthaidh (Bealanageary),25,232
+200 Ceann Droma,24,150
+201 Cannaway,49,262
+202 Claonráth,17,98
+203 Clondrohid,66,412
+204 Clonmoyle,40,252
+205 Doire Fhínín,23,116
+206 Gort na Tiobratan,30,201
+207 Gowlane,103,543
+208 Greenville,17,115
+209 Inchigeelagh,24,234
+210 Kilberrihert,60,301
+211 Kilcullen,85,388
+212 Cill na Martra,58,311
+213 Macloneigh,68,369
+214 Magourney,89,454
+215 Mashanaglass,39,181
+216 Mountrivers,39,294
+217 Rahalisk,40,243
+218 An Sliabh Riabhach,78,377
+219 Na hUláin,47,295
+220 Warrenscourt,58,327
+221 Ardskeagh,32,170
+222 Ballyclogh,52,308
+223 Ballynamona,74,440
+224 Buttevant,107,694
+225 Caherduggan,34,276
+226 Carrig,19,96
+227 Churchtown,69,471
+228 Clenor,23,151
+229 Doneraile,105,534
+230 Dromore,215,"1,066"
+231 Imphrick,40,160
+232 Kilmaclenine,50,322
+233 Kilshannig,62,432
+234 Liscarroll,36,246
+235 Mallow Rural,317,"1,773"
+236 Milltown,32,155
+237 Monanimy,62,346
+238 Rahan,58,389
+239 Rathluirc,275,"1,600"
+240 Shanballymore,39,274
+241 Skahanagh,8,67
+242 Springfort,51,242
+243 Streamhill,5,42
+244 Templemary,21,149
+245 Wallstown,13,111
+246 Ballintemple,53,241
+247 Ballycottin,120,727
+248 Ballyspillane,25,152
+249 Carrigtohill,563,"3,279"
+250 Castlemartyr,68,480
+251 Clonmult,19,98
+252 Cloyne,355,"1,834"
+253 Corkbeg,206,"1,064"
+254 Dangan,13,98
+255 Dungourney,68,309
+256 Garryvoe,43,272
+257 Ightermurragh,182,"1,237"
+258 Inch,53,236
+259 Lisgoold,93,398
+260 Midleton Rural,650,"3,810"
+261 Mogeely,42,278
+262 Rostellan,96,529
+263 Templebodan,46,245
+264 Templenacarriga,45,278
+265 Caherbarnagh,50,245
+266 Coomlogane,73,375
+267 Crinnaloo,15,87
+268 Cullen,27,175
+269 Derragh,18,89
+270 Doonasleen,31,189
+271 Drishane,203,927
+272 Keale,28,156
+273 Kilcorney,20,147
+274 Knocknagree,48,277
+275 Rathcool,29,212
+276 Skagh,28,170
+277 Ballyarthur,28,126
+278 Derryvillane,41,199
+279 Farahy,33,162
+280 Kildorrery,52,349
+281 Kilgullane,15,65
+282 Kilphelan,34,199
+283 Marshalstown,32,182
+284 Mitchelstown,325,"2,008"
+285 Templemolaga,28,152
+286 Aghadown North,15,123
+287 Aghadown South,42,243
+288 Bredagh,34,241
+289 Caheragh,11,113
+290 Cléire,40,135
+291 Carrigbaun,26,158
+292 Castlehaven North,48,323
+293 Castlehaven South,27,175
+294 Cloghdonnell,27,166
+295 Cloonkeen,20,147
+296 Drinagh,31,155
+297 Dromdaleague North,21,113
+298 Dromdaleague South,42,247
+299 Garranes,23,151
+300 Gortnascreeny,42,197
+301 Kilfaughnabeg,43,197
+302 Killeenleagh,17,147
+303 Knockskagh,50,230
+304 Myross,48,301
+305 Shreelane,26,159
+306 Skibbereen Rural,80,481
+307 Tullagh,42,297
+308 Woodfort,21,166
+309 Ballybane,21,119
+310 Ballydehob,61,345
+311 Coolagh,14,63
+312 Crookhaven,11,97
+313 Dunbeacon,12,86
+314 Dunmanus,14,84
+315 Goleen,8,84
+316 Kilcoe,30,171
+317 Lowertown,15,101
+318 Skull,73,396
+319 Toormore,16,70
+320 Ardagh,42,288
+321 Clonpriest,78,443
+322 Kilcronat,13,73
+323 Killeagh,116,630
+324 Kilmacdonogh,77,420
+325 Youghal Rural,126,506
+001 Killarney Urban,653,"4,447"
+002 Listowel Urban,258,"1,401"
+003 Tralee Urban,189,"1,612"
+004 Na Beathacha,16,93
+005 Baile an Sceilg,31,146
+006 An Baile Breac,3,40
+007 Caher,108,705
+008 Cathair Dónall,29,132
+020 Ceannúigh / Máistir Gaoithe,10,89
+010 Castlequin,57,258
+012 Curraghbeg,12,82
+013 Doire Fhíonáin,13,75
+011 Doire Ianna / Cloon,10,91
+015 An tImleach,58,342
+016 Glanbehy,61,400
+017 Killinane,11,108
+018 Lickeen,2,36
+019 Loch Luíoch,26,110
+021 Maum,13,115
+022 Portmagee,25,159
+023 Toghroinn Fhíonáin,12,64
+024 Teeranearagh,27,131
+025 Valencia,48,262
+026 Ballinvoher,40,221
+027 An Baile Dubh,7,44
+028 Ballynacourty,20,132
+029 Cé Bhréanainn,9,58
+030 Castlegregory,50,381
+031 An Clochán,13,91
+032 Deelis,25,147
+033 An Daingean,79,686
+034 Dún Chaoin,6,70
+035 Dún Urlann,24,213
+036 Na Gleannta,106,766
+037 Inch,11,47
+038 Cill Maoilchéadair,23,205
+039 Cill Chuáin,12,199
+040 Cinn Aird,18,162
+041 Lack,23,117
+042 Márthain,17,107
+043 An Mhin Aird,25,177
+044 An Sráidbhaile,19,97
+045 Ceann Trá,22,174
+046 Ardea,15,77
+047 Banawn,20,106
+048 Cappagh,16,165
+049 Castlecove,22,112
+050 Dawros,33,242
+051 Dromore,22,99
+052 Glanlee,15,62
+053 Glanlough,3,59
+054 Glanmore,9,80
+055 Greenane,20,88
+056 Kenmare,176,"1,288"
+057 Kilgarvan,46,290
+058 Loughbrin,3,62
+059 Reen,15,59
+060 Sneem,61,348
+061 Tahilla,15,67
+062 Aghadoe,67,381
+063 Aglish,26,186
+064 Ballyhar,11,88
+065 Brewsterfield,62,350
+066 Caragh,61,374
+067 Churchtown,26,205
+068 Clydagh,9,51
+069 Coolies,62,376
+070 Coom,153,885
+071 Curraghmore,13,143
+072 Currans,22,114
+073 Doocarrig,35,281
+074 Dromin,49,354
+075 Dunloe,55,349
+076 Flesk,21,177
+077 Headfort,48,350
+078 Kilbonane,48,263
+079 Kilcummin,166,928
+080 Kilfelim,23,119
+081 Kilgobnet,43,334
+082 Killarney Rural,421,"2,914"
+083 Killeentierna,68,408
+084 Killorglin,263,"1,788"
+085 Kilnanare,77,405
+086 Knocknahoe,30,153
+087 Lahard,52,322
+088 Milltown,138,927
+089 Molahiffe,98,710
+090 Muckross,48,377
+091 Rathmore,150,844
+092 Rockfield,29,176
+093 Ardagh,35,244
+094 Astee,34,195
+095 Ballincloher,27,177
+096 Ballyconry,28,161
+097 Ballyduff,41,269
+098 Ballyegan,8,39
+099 Ballyhorgan,39,186
+100 Beal,18,62
+101 Carrig,13,133
+102 Causeway,39,260
+103 Cloontubbrid,25,103
+104 Drommartin,39,204
+105 Duagh,30,197
+106 Ennismore,41,192
+107 Gullane,15,98
+108 Gunsborough,26,139
+109 Kilfeighny,47,381
+110 Killehenny,106,663
+111 Killury,19,197
+112 Kilmeany,36,301
+113 Kilshenane,15,80
+114 Kiltomy,15,165
+115 Leitrim,58,215
+116 Lislaughtin,41,226
+117 Lisselton,24,143
+118 Listowel Rural,122,607
+119 Lixnaw,58,374
+120 Moynsha,40,226
+121 Newtownsandes,61,420
+122 Rathea,24,158
+123 Shronowen,12,91
+124 Tarbert,61,269
+125 Tarmon,39,171
+126 Trienearagh,36,195
+127 Urlee,21,134
+128 Abbeydorney,68,476
+129 Arabela,90,589
+130 Ardfert,53,348
+131 Ballyegan,23,157
+132 Ballyheige,94,538
+133 Ballynahaglish,113,675
+134 Ballynorig,27,193
+135 Ballyseedy,123,674
+136 Banna,44,297
+137 Baurtregaum,27,135
+138 Blennerville,42,279
+139 Boolteens,36,209
+140 Brosna,46,278
+141 Carker,16,181
+142 Castleisland,216,"1,329"
+143 Clogherbrien,83,616
+144 Cordal,17,130
+145 Crinny,23,147
+146 Derreen,13,87
+147 Doon,60,292
+148 Gneeves,28,159
+149 Kerryhead,41,231
+150 Kilflyn,13,108
+151 Kilgarrylander,40,282
+152 Kilgobban,17,109
+153 Killahan,24,141
+154 Kilmurry,17,140
+155 Kiltallagh,40,229
+156 Knockglass,28,141
+157 Knocknagashel,43,272
+158 Lackabaun,29,182
+159 Millbrook,20,203
+160 Mount Eagle,7,59
+161 Nohaval,25,160
+162 O'Brennan,29,214
+163 Ratass,75,460
+164 Scartaglin,50,315
+165 Tralee Rural,875,"6,492"
+166 Tubrid,45,359
+001 Abbey A,302,"1,776"
+002 Abbey B,160,998
+003 Abbey C,14,163
+004 Abbey D,49,461
+005 Ballinacurra A,129,885
+006 Ballinacurra B,64,411
+007 Ballynanty,68,633
+008 Castle A,69,417
+009 Castle B,36,184
+010 Castle C,99,545
+011 Castle D,143,810
+012 Coolraine,105,583
+013 Custom House,30,307
+014 Dock A,83,900
+015 Dock B,62,488
+016 Dock C,54,371
+017 Dock D,41,270
+018 Farranshone,73,362
+019 Galvone A,49,477
+020 Galvone B,6,132
+021 Glentworth A,23,166
+022 Glentworth B,53,407
+023 Glentworth C,10,128
+024 John's A,6,117
+025 John's B,30,272
+026 John's C,19,170
+027 Killeely A,24,339
+028 Killeely B,18,248
+029 Market,105,837
+030 Prospect A,12,192
+031 Prospect B,12,162
+032 Rathbane,28,367
+033 St. Laurence,41,277
+034 Shannon A,60,504
+035 Shannon B,55,410
+036 Singland A,55,466
+037 Singland B,231,"1,520"
+065 Limerick North Rural,420,"2,537"
+001 Abbeyville,20,139
+002 Adare North,55,254
+003 Adare South,145,840
+004 Ballingarry,58,396
+005 Ballyagran,26,216
+006 Ballygrennan,20,140
+007 Ballynabanoge,13,119
+008 Ballynoe,28,225
+009 Castletown,28,151
+010 Coolrus,26,192
+011 Crean,24,179
+012 Crecora,41,190
+013 Croom,95,587
+014 Dunnaman,54,316
+015 Fedamore,74,438
+016 Garrane,24,132
+017 Grange,51,237
+018 Kilfinny,26,145
+019 Kilpeacon,43,242
+020 Rathmore,20,130
+021 Fleanmore,23,95
+022 Glin,100,454
+023 Kilfergus,38,181
+024 Kilmoylan,28,186
+025 Ardpatrick,31,165
+026 Athlacca,22,164
+027 Ballymacshaneboy,50,218
+028 Bruff,93,533
+029 Bruree,75,436
+030 Bulgaden,18,148
+031 Cahercorney,65,312
+032 Colmanswell,44,252
+033 Darragh,26,156
+034 Dromin,45,242
+035 Emlygrennan,62,312
+036 Glenbrohane,30,170
+037 Griston,12,143
+038 Hospital,111,512
+039 Kilfinnane,84,409
+040 Kilflyn,9,92
+041 Kilmallock,134,808
+042 Kilteely,32,225
+043 Knockainy,57,289
+044 Knocklong,50,327
+045 Particles,21,99
+046 Rockhill,11,147
+047 Tobernea,49,253
+048 Uregare,55,261
+049 Abington,102,503
+050 Ballybricken,129,759
+051 Ballycummin,"1,391","8,331"
+052 Ballysimon,739,"5,289"
+053 Ballyvarra,320,"1,801"
+054 Caherconlish East,40,218
+055 Caherconlish West,139,844
+056 Caherelly,28,142
+057 Cappamore,93,517
+058 Carrig,59,233
+059 Castleconnell,249,"1,342"
+060 Clarina,151,778
+061 Clonkeen,82,423
+062 Doon West,13,103
+063 Glenstal,70,413
+064 Kilmurry,57,368
+066 Limerick South Rural,95,737
+067 Patrickswell,86,530
+068 Roxborough,119,627
+069 Anglesborough,24,145
+070 Ballylanders,36,226
+071 Cullane,21,158
+072 Duntryleague,25,142
+073 Galbally,29,199
+074 Kilbeheny,15,110
+075 Kilglass,26,144
+076 Knocknascrow,23,93
+077 Riversdale,20,103
+078 Abbeyfeale,186,898
+079 Ardagh,68,388
+080 Ballintober,29,138
+081 Ballynoe West,17,131
+082 Boola,10,65
+083 Broadford,67,396
+084 Caher,28,146
+085 Cleanglass,16,113
+086 Cloncagh,28,124
+087 Danganbeg,30,185
+088 Dromcolliher,59,379
+089 Dromtrasna,63,374
+090 Feenagh,19,149
+091 Garryduff,20,127
+092 Glenagower,48,181
+093 Glengort,33,280
+094 Glensharrold,24,171
+095 Kilmeedy,20,141
+096 Knockaderry,36,217
+097 Mahoonagh,39,201
+098 Monagay,97,548
+099 Mountcollins,25,198
+100 Mountplummer,19,144
+101 Newcastle Rural,165,"1,009"
+102 Newcastle Urban,342,"1,930"
+103 Port,39,203
+104 Rathronan,57,328
+105 Rooskagh,17,111
+106 Templeglentan,69,389
+107 Askeaton East,48,217
+108 Askeaton West,56,415
+109 Aughinish,17,92
+110 Ballyallinan,28,196
+111 Ballynacarriga,72,375
+112 Castletown,42,219
+113 Craggs,28,101
+114 Croagh,63,318
+115 Dromard,69,398
+116 Dunmoylan East,21,192
+117 Dunmoylan West,3,29
+118 Iveruss,26,136
+119 Kilcornan,60,310
+120 Kildimo,59,275
+121 Kilscannell,36,220
+122 Lismakeery,27,198
+123 Loghill,38,245
+124 Mohernagh,12,59
+125 Nantinan,65,324
+126 Pallaskenry,87,443
+127 Rathkeale Rural,21,130
+128 Rathkeale Urban,57,387
+129 Riddlestown,38,270
+130 Shanagolden,54,364
+131 Shanid,39,221
+132 Bilboa,27,179
+133 Doon South,73,518
+134 Grean,91,530
+135 Oola,63,421
+136 Templebredon,30,225
+001 Nenagh East Urban,156,"1,203"
+002 Nenagh West Urban,280,"2,118"
+003 Templemore,67,684
+004 Thurles Urban,309,"2,359"
+005 Aglishcloghane,9,123
+006 Ballingarry,26,208
+007 Ballylusky,14,158
+008 Borrisokane,50,448
+009 Carrig,13,74
+010 Cloghjordan,48,392
+011 Cloghprior,21,117
+012 Clohaskin,17,92
+013 Finnoe,6,71
+014 Graigue,11,111
+015 Kilbarron,49,263
+016 Lorrha East,15,113
+017 Lorrha West,15,132
+018 Mertonhall,6,73
+019 Rathcabban,7,106
+020 Redwood,6,57
+021 Riverstown,36,237
+022 Terryglass,43,212
+023 Uskane,11,102
+024 Abington,46,234
+025 Aghnameadle,13,135
+026 Ardcrony,36,217
+027 Ballina,224,"1,350"
+028 Ballygibbon,37,281
+029 Ballymackey,26,244
+030 Ballynaclogh,51,288
+031 Birdhill,51,307
+032 Burgesbeg,31,189
+033 Carrigatogher,33,307
+034 Castletown,87,571
+035 Derrycastle,32,170
+036 Dolla,14,108
+045 Greenhall / Lackagh,35,186
+038 Kilcomenty,52,304
+039 Kilkeary,31,278
+040 Killoscully,41,210
+041 Kilmore,39,255
+042 Kilnaneave,28,192
+043 Kilnarath,36,153
+044 Knigh,52,303
+046 Latteragh,36,268
+047 Monsea,46,274
+048 Nenagh Rural,117,777
+049 Newport,170,"1,154"
+050 Templederry,11,54
+051 Youghalarra,66,411
+052 Borrisnafarney,16,134
+053 Borrisnoe,11,55
+054 Bourney East,7,128
+055 Bourney West,19,171
+056 Killavinoge,23,189
+057 Killea,15,153
+058 Rathnaveoge,8,106
+059 Roscrea,312,"2,328"
+060 Timoney,16,166
+061 Ballycahill,26,198
+062 Ballymurreen,12,118
+063 Borrisoleigh,69,516
+064 Drom,71,527
+065 Foilnaman,20,141
+066 Glenkeen,28,200
+067 Gortkelly,28,251
+068 Holycross,76,583
+069 Inch,31,170
+070 Kilrush,28,214
+071 Littleton,51,382
+072 Longfordpass,19,129
+073 Loughmoe,31,262
+074 Moyaliff,22,158
+075 Moycarky,32,215
+076 Moyne,21,233
+077 Rahelty,38,280
+078 Templetouhy,40,320
+079 Thurles Rural,133,"1,016"
+080 Twomileborris,45,351
+081 Upperchurch,19,140
+082 Carrickbeg Urban,90,552
+083 Carrick-on-Suir Urban,234,"1,420"
+084 Cashel Urban,116,841
+085 Clonmel East Urban,213,"1,539"
+086 Clonmel West Urban,220,"1,694"
+087 Tipperary East Urban,87,646
+088 Tipperary West Urban,78,676
+089 Carrick-on-Suir Rural,30,200
+090 Garrangibbon,35,229
+091 Kilmurry,15,143
+092 Newtown,26,170
+093 Ardmayle,31,229
+094 Ardsallagh,20,199
+095 Ballysheehan,23,193
+096 Cashel Rural,172,"1,183"
+097 Clogher,13,90
+098 Cloneen,29,203
+099 Clonoulty East,27,205
+100 Clonoulty West,35,257
+101 Colman,29,198
+102 Cooleagh,36,233
+103 Drangan,39,261
+104 Fethard,53,320
+105 Gaile,40,311
+106 Graigue,6,65
+107 Greystown,21,168
+108 Killeenasteena,33,257
+109 Killenaule,62,392
+110 Kilpatrick,49,385
+111 Knockgraffon,50,337
+112 Magorban,31,276
+113 Nodstown,37,252
+114 Oughterleague,22,181
+115 Peppardstown,51,520
+116 Tullamain,35,289
+117 Ardfinnan,80,476
+118 Ballybacon,35,202
+119 Ballyporeen,60,343
+120 Burncourt,21,182
+121 Caher,73,487
+122 Clogheen,56,376
+123 Coolagarranroe,47,218
+124 Derrygrath,56,300
+125 Kilcommon,136,833
+126 Kilcoran,31,224
+127 Mortlestown,122,769
+128 Newcastle,43,295
+129 Tubbrid,51,271
+130 Tullaghmelan,72,440
+131 Tullaghorton,16,104
+132 Ballyclerahan,83,496
+133 Clonmel Rural,386,"2,476"
+134 Inishlounaght,216,"1,397"
+135 Kilcash,54,353
+136 Kilsheelan / Killaloan,102,583
+138 Kiltinan,16,132
+139 Lisronagh,56,386
+140 Anner,20,145
+141 Ballingarry,42,249
+142 Ballyphilip,28,157
+143 Buolick,50,226
+144 Crohane,18,108
+145 Farranrory,24,161
+146 Fennor,32,223
+147 Kilcooly,18,121
+148 Kilvemnon,20,182
+149 Modeshil,17,128
+150 Mullinahone,52,291
+151 New Birmingham,34,153
+152 Poyntstown,13,63
+153 Ballycarron,22,132
+154 Ballygriffin,15,103
+155 Ballykisteen,35,316
+156 Bansha,39,327
+157 Bruis,15,135
+158 Cappagh,62,353
+159 Clonbeg,51,286
+160 Cullen,12,109
+161 Curraheen,13,125
+162 Donohill,30,265
+163 Drumwood,47,255
+164 Emly,32,262
+165 Glengar,20,104
+166 Golden,37,374
+167 Kilfeakle,23,175
+168 Killadriffe,35,246
+169 Kilmucklin,16,224
+170 Lattin,19,203
+171 Rathlynin,18,137
+172 Rodus,12,106
+173 Shronell,19,149
+174 Solloghodbeg,11,97
+175 Templeneiry,25,176
+176 Thomastown,25,172
+177 Tipperary Rural,127,871
+001 Ballybeg North,85,830
+006 Ballybeg South / Ballynaneashagh,22,81
+003 Ballybricken West,1,49
+004 Ballymaclode,65,506
+005 Ballynakill,98,819
+007 Ballytruckle,260,"2,379"
+008 Bilberry,45,330
+009 Centre A,41,225
+010 Centre B,7,78
+011 Cleaboy,156,"1,116"
+012 Custom House A,13,132
+013 Custom House B,13,89
+014 Farranshoneen,348,"2,569"
+015 Ferrybank,47,306
+016 Gracedieu,68,583
+017 Grange North,41,272
+018 Grange South,116,"1,059"
+019 Grange Upper,140,"1,054"
+020 Kilbarry,65,492
+021 Kingsmeadow,47,282
+022 Larchville,34,231
+023 Lisduggan,27,266
+024 Military Road,28,271
+025 Morrisson's Avenue East,23,179
+026 Morrisson's Avenue West,9,87
+027 Morrisson's Road,22,147
+028 Mount Sion,41,285
+029 Newport's Square,14,159
+030 Newtown,49,360
+031 Park,86,638
+032 Poleberry,52,438
+033 Roanmore,29,251
+034 Shortcourse,10,99
+035 Slievekeale,31,214
+036 The Glen,24,283
+037 Ticor North,111,784
+038 Ticor South,19,112
+001 Dungarvan No. 1 Urban,192,"1,540"
+002 Dungarvan No. 2 Urban,222,"1,401"
+003 Ballydurn,10,84
+004 Carrickbeg Rural,31,171
+005 Clonea,23,185
+006 Fenoagh,16,79
+007 Glen,20,174
+008 Kilmeadan,42,281
+009 Mothel,42,192
+010 Portlaw,85,614
+011 Rathgormuck,13,86
+012 Ross,16,117
+013 Ballymacarbry,39,212
+014 Graignagower,33,209
+015 Gurteen,27,154
+016 Kilmacomma,28,195
+017 Kilronan,12,94
+018 St. Mary's,46,284
+019 Aird Mhór,10,81
+020 Baile Mhac Airt,21,142
+021 Bohadoon,19,122
+022 Cappagh,36,170
+023 Carriglea,32,223
+024 Clonea,173,984
+025 Colligan,51,300
+026 Coumaraglin,15,110
+027 Dromana,50,317
+028 Dromore,11,96
+029 Dungarvan Rural,125,800
+030 Keereen,12,103
+031 Knockaunbrandaun,10,82
+032 Modelligo,14,130
+033 Mountstuart,1,31
+034 An Rinn,74,546
+035 Seskinan,26,186
+036 Whitechurch,10,87
+037 Annestown,60,326
+038 Ballylaneen,20,102
+039 Carrigcastle,14,101
+040 Comeragh,18,173
+041 Dunhill,18,113
+042 Fews,22,150
+043 Fox's Castle,32,215
+044 Gardenmorris,21,158
+045 Georgestown,11,92
+046 Kilbarrymeaden,20,135
+047 Kilmacthomas,66,520
+048 Knockmahon,27,152
+049 Mountkennedy,35,199
+050 Newtown,33,195
+051 Stradbally,50,313
+052 Tinnasaggart,6,38
+053 Ballyduff,31,137
+054 Ballyhane,24,180
+055 Ballyin,27,220
+056 Ballynamult,8,82
+057 Ballysaggartmore,19,151
+058 Cappoquin,63,487
+059 Castlerichard,32,212
+060 Drumroe,11,109
+061 Gortnapeaky,12,78
+062 Kilcockan,10,82
+063 Kilwatermoy East,5,53
+064 Kilwatermoy West,10,89
+065 Lismore Rural,73,486
+066 Lismore Urban,41,246
+067 Mocollop,14,111
+068 Modelligo,17,131
+069 Tallow,70,475
+070 Ballynakill (Part Rural),26,151
+071 Drumcannon,38,145
+072 Faithlegg (Part Rural),141,817
+073 Islandikane,124,819
+074 Kilbarry (Part Rural),13,103
+075 Killea,96,639
+076 Killoteran,45,248
+077 Kilmacleague,22,170
+078 Kilmeadan,56,318
+079 Newcastle,44,193
+080 Pembrokestown,48,212
+081 Rathmoylan,81,483
+082 Reisk,83,499
+083 Tramore,588,"3,574"
+084 Woodstown,50,237
+085 Ardmore,44,282
+086 Ballyheeny,37,214
+087 Clashmore,23,176
+088 Glenwilliam,11,66
+089 Grallagh,13,110
+090 Grange,20,139
+091 Kinsalebeg,45,232
+092 Templemichael,33,182
+001 Ballybaan,717,"5,896"
+002 Baile an Bhriotaihg,55,423
+003 Bearna,854,"6,964"
+004 An Caisleán Gearr,269,"2,020"
+005 Claddagh,161,"1,210"
+006 Dangan,151,"1,255"
+007 Eyre Square,227,"1,917"
+008 An Cnocán Carrach,93,681
+009 Lough Atalia,60,390
+010 Mionlach,241,"2,002"
+011 Mervue,102,857
+012 Murroogh,164,"1,338"
+013 Newcastle,62,457
+014 Nuns Island,73,659
+015 Rahoon,141,"1,359"
+016 Renmore,81,521
+017 Rockbarton,143,694
+018 Paróiste San Nicoláis,100,999
+019 Salthill,178,"1,670"
+020 Shantalla,44,590
+021 Taylors Hill,139,993
+022 Wellpark,88,758
+001 Ballinasloe Urban,315,"2,253"
+002 Abbeygormacan,20,183
+003 Ahascragh,36,249
+004 Aughrim,31,233
+005 Ballinasloe Rural,33,246
+006 Ballymacward,15,128
+007 Clonfert,34,165
+008 Clontuskert,13,103
+009 Kellysgrove,26,143
+010 Kilconnell,38,262
+011 Killaan,31,206
+012 Killallaghtan,26,214
+013 Killoran,18,115
+014 Killure,37,258
+015 Kilmacshane,14,89
+016 Kiltormer,33,200
+017 Kylemore,7,54
+018 Laurencetown,28,143
+019 Lismanny,10,101
+020 Oatfield,21,168
+021 Ballynakill,25,186
+022 Binn an Choire,11,81
+023 Bunowen,18,143
+024 Cleggan,18,104
+025 Clifden,102,809
+026 Cushkillary,11,110
+028 Derrycunlagh / Derrylea,22,152
+029 Doonloughan,1,24
+030 Errislannan,10,72
+031 An Uillinn,6,46
+032 Inishbofin,6,76
+033 An Cnoc Buí,26,224
+034 Maíros,22,133
+035 Abhainn Ghabhla,14,81
+036 Rinvyle,51,482
+037 Cloch na Rón,14,144
+038 Sillerna,13,132
+039 Scainimh,21,176
+040 Eanach Dhúin,148,865
+041 Aughrim,83,586
+042 Baile an Teampaill (Part Rural),107,734
+043 Ballynacourty,87,537
+044 Bearna (Part Rural),261,"1,613"
+045 Belleville,43,292
+046 An Carn Mór,203,"1,260"
+047 Ceathrú an Bhrúnaigh (Part Rural),67,383
+048 Baile Chláir,151,993
+049 Clarinbridge,267,"1,665"
+050 Deerpark,101,603
+051 Na Forbacha,86,554
+052 Galway Rural (Part Rural),11,58
+053 Árainn,42,441
+054 Cill Chuimin,59,464
+055 Cill Aithnín,73,397
+056 Leacach Beag,110,698
+057 Liscananaun,122,691
+058 Lisín an Bhealaigh,74,478
+059 Maigh Cuilinn,132,946
+060 Oranmore,346,"2,111"
+061 Sailearna,72,569
+062 Sliabh an Aonaigh,38,322
+063 An Spidéal,88,600
+064 Stradbally,91,553
+065 Tulaigh Mhic Aodháin,137,861
+066 Ballinastack,15,137
+067 Ballymoe,31,158
+068 Ballynakill,24,167
+069 Boyounagh,12,92
+070 Creggs,28,149
+071 Curraghmore,14,71
+072 Glennamaddy,39,325
+073 Island,12,91
+074 Kilcroan,28,199
+075 Kiltullagh,25,89
+076 Raheen,24,196
+077 Scregg,21,101
+078 Shankill,18,111
+079 Templetogher,29,177
+080 Toberroe,15,123
+081 Ardamullivan,38,252
+082 Ardrahan,33,224
+083 Ballycahalan,13,86
+084 Beagh,50,308
+085 Cahermore,30,246
+086 Cappard,9,43
+087 Castletaylor,40,272
+088 Doorus,73,346
+089 Drumacoo,95,571
+090 Gort,151,"1,237"
+091 Kilbeacanty,19,140
+092 Killeely,150,767
+093 Killeenavarra,52,349
+094 Killinny,22,211
+095 Kiltartan,52,365
+096 Kilthomas,7,42
+097 Kinvarra,113,648
+098 Rahasane,22,156
+099 Skehanagh,37,211
+100 Aille,19,168
+101 Athenry,349,"2,307"
+102 Ballynagar,13,88
+103 Bracklagh,27,179
+104 Bullaun,15,121
+105 Cappalusk,19,183
+106 Castleboy,46,233
+107 Cloonkeen,41,194
+108 Colmanstown,15,73
+109 Craughwell,115,761
+110 Derrylaur,11,45
+111 Drumkeary,33,264
+112 Graigabbey,24,168
+113 Grange,44,318
+114 Greethill,63,423
+115 Kilchreest,18,127
+116 Kilconickny,48,263
+117 Kilconierin,35,266
+118 Killimor,15,154
+119 Killogilleen,74,388
+120 Kilmeen,53,281
+121 Kilreekill,28,138
+122 Kilteskill,28,169
+123 Kiltullagh,41,326
+124 Lackalea,25,162
+125 Leitrim,43,211
+127 Loughrea Rural,59,350
+128 Loughrea Urban,331,"2,270"
+126 Marblehill / Loughatorick,22,152
+130 Mountain,24,129
+131 Movode,16,104
+132 Raford,34,232
+133 Tiaquin,58,304
+134 Woodford,25,172
+135 Annagh,14,149
+136 Ballynakill,37,233
+137 Caltra,26,155
+138 Castleblakeney,29,212
+139 Castleffrench,33,196
+140 Clonbrock,32,254
+141 Cloonkeen,10,119
+142 Cooloo,31,241
+143 Derryglassaun,53,384
+144 Killeroran,101,521
+145 Killian,21,139
+146 Mount Bellew,118,846
+147 Mounthazel,28,212
+148 Taghboy,16,105
+149 Camas,19,101
+150 An Fhairche,66,429
+151 Conga,32,195
+152 An Crompán,120,836
+153 An Chorr,11,63
+154 Garmna,41,373
+155 Cill Chuimín,11,65
+156 Leitir Breacáin,9,96
+157 Letterfore,17,99
+158 Leitir Móir,16,247
+159 Oughterard,169,"1,037"
+160 An Ros,3,33
+161 An Turlach,17,167
+162 Wormhole,151,"1,003"
+163 Abbeyville,21,120
+164 Ballyglass,8,69
+165 Coos,6,38
+166 Derrew,7,72
+167 Drummin,23,152
+168 Eyrecourt,31,144
+169 Killimor,38,273
+170 Kilmalinoge,8,101
+171 Kilquain,23,124
+172 Meelick,14,102
+173 Moat,11,62
+174 Pallas,23,159
+175 Portumna,132,843
+176 Tiranascragh,14,68
+177 Tynagh,22,170
+178 Abbey East,37,266
+179 Abbey West,49,340
+180 Addergoole,41,213
+181 Annaghdown,96,612
+182 Ballinderry,33,219
+183 Ballinduff,53,294
+184 Ballynapark,66,430
+185 Beaghmore,19,158
+186 Belclare,57,332
+187 Carrownagur,23,179
+188 Carrowrevagh,25,170
+189 Claretuam,50,471
+190 Clonbern,13,165
+191 Cloonkeen,21,151
+192 Cummer,76,490
+193 Donaghpatrick,24,226
+194 Doonbally,41,255
+195 Dunmore North,46,216
+196 Dunmore South,55,316
+197 Foxhall,31,258
+198 Headford,79,651
+199 Hillsbrook,48,287
+200 Kilbennan,16,137
+201 Kilcoona,37,267
+202 Killeany,37,271
+203 Killeen,49,299
+204 Killererin,51,349
+205 Killower,55,390
+206 Killursa,60,457
+207 Kilmoylan,71,453
+208 Kilshanvy,26,183
+209 Levally,24,142
+210 Milltown,34,266
+211 Monivea,48,311
+212 Moyne,44,280
+213 Ryehill,64,371
+214 Toberadosh,28,146
+215 Tuam Rural,387,"2,387"
+216 Tuam Urban,215,"1,215"
+001 Ballinamore,50,426
+002 Cloverhill,11,109
+003 Corrala,16,92
+004 Drumreilly North,12,67
+005 Drumreilly South,7,52
+006 Garadice,32,195
+011 Greaghglass / Stralongford,20,101
+008 Killygar,5,48
+009 Newtowngore,13,109
+010 Oughteragh,5,36
+012 Aghacashel,4,36
+013 Annaduff,19,107
+014 Barnameenagh,10,54
+015 Carrick-on-Shannon,228,"1,716"
+016 Drumreilly West / Drumreilly East,10,75
+018 Drumshanbo,79,513
+019 Drumsna,36,280
+020 Gortnagullion,18,101
+021 Gowel,24,149
+022 Keshcarrigan,39,161
+023 Kiltubbrid,7,63
+024 Leitrim,81,503
+025 Moher,11,102
+026 Yugan,10,89
+028 Aghalateeve / Aghanlish,8,78
+032 Aghavoghill / Melvin,17,70
+030 Gubacreeny,44,268
+031 Kinlough,44,333
+033 Tullaghan,33,255
+035 Ballaghameehan,10,81
+036 Belhavel,16,90
+037 Cloonclare,15,76
+038 Cloonlogher,18,135
+039 Drumahaire,95,625
+040 Drumkeeran,24,160
+034 Garvagh / Arigna,13,66
+042 Glenade,6,61
+043 Glenaniff,11,62
+044 Glenboy,17,119
+045 Glencar,16,117
+046 Glenfarn,6,40
+047 Killanummery,26,149
+048 Killarga,1,25
+049 Kiltyclogher,10,60
+050 Lurganboy,26,181
+051 Mahanagh,10,87
+052 Manorhamilton,94,741
+053 Munakill,8,71
+054 Sramore,26,171
+055 St. Patrick's,8,58
+056 Aghavas,25,126
+057 Beihy,20,135
+058 Breandrum,30,111
+059 Bunnybeg,5,61
+060 Carrigallen East,18,106
+061 Carrigallen West,39,206
+062 Cashel,10,71
+063 Castlefore,22,92
+064 Cattan,15,92
+065 Cloone,22,134
+066 Corriga,12,63
+067 Drumard,15,101
+068 Drumdoo,20,110
+069 Drumod,61,353
+070 Fenagh,27,147
+071 Gortermone,21,124
+072 Keeldra,9,79
+073 Lisgillock,14,78
+074 Mohill,58,432
+075 Rinn,21,156
+076 Riverstown,11,85
+077 Roosky,49,250
+078 Rowan,18,82
+001 Ardnaree South Urban,81,716
+002 Ballina Urban,197,"1,363"
+003 Castlebar Urban,314,"2,134"
+004 Westport Urban,387,"2,516"
+005 Ardagh,29,157
+006 Ardnaree North,50,384
+007 Ardnaree South Rural,188,"1,283"
+008 Attymass East,23,129
+009 Attymass West,13,95
+010 Ballina Rural,188,"1,159"
+011 Ballycastle,25,210
+012 Ballysakeery,42,241
+013 Béal Deirg Mór,4,57
+014 Bunaveela,0,28
+015 Carrowmore,64,369
+016 Crossmolina North,77,431
+017 Crossmolina South,65,342
+018 Deel,41,181
+019 Derry,20,65
+020 Fortland,40,206
+021 Kilfian East,11,87
+022 Kilfian South,12,85
+023 Kilfian West,8,42
+024 Kilgarvan,54,301
+025 Killala,73,495
+026 Lackan North,11,121
+027 Lackan South,19,159
+028 Letterbrick,6,51
+029 Mount Falcon,61,481
+030 Rathoma,9,81
+031 Sallymount,33,193
+032 Sraheen,57,395
+033 Baile an Chalaidh,13,91
+034 Ballinrobe,229,"1,504"
+035 Baile Óbha,16,86
+036 Burriscarra,34,172
+037 An Cheapaigh Dhuibh,23,147
+038 Cong,56,379
+039 Coonard,17,121
+040 Dalgan,78,471
+041 Hollymount,48,337
+042 Houndswood,42,276
+043 Kilcommon,38,299
+044 Kilmaine,43,372
+045 Neale,43,334
+046 Newbrook,30,226
+047 Abhainn Bhrain,14,84
+048 Partraí,38,229
+049 Roslee,31,175
+050 Shrule,77,468
+051 An Geata Mór Thuaidh,59,339
+052 An Geata Mór Theas,42,262
+053 Bangor,21,174
+054 Barr Rúscaí,6,40
+055 Béal an Mhuirthead,113,721
+056 Gleann na Muaidhe,6,67
+057 Gleann Chaisil,26,167
+065 Glenco / Sheskin,4,30
+059 Guala Mhór,9,49
+060 Cnoc an Daimh,14,104
+061 Cnoc na Lobhar,31,224
+062 Moing na Bó,11,81
+063 Na Monga,8,65
+064 Cnoc na Ráithe,34,201
+066 Addergoole,57,343
+067 Balla,109,698
+068 Ballinafad,34,218
+069 Ballyhean,41,267
+070 Ballynagoraher,21,134
+071 Bellavary,55,418
+072 Breaghwy,96,751
+073 Burren,21,152
+074 Castlebar Rural,470,"3,243"
+075 Clogher,29,229
+076 Cloonkeen,57,326
+077 Croaghmoyle,9,73
+078 Killavally,30,229
+079 Manulla,64,391
+080 Pontoon,34,198
+081 Strade,41,222
+082 Tamhnaigh na Graí,28,180
+083 Turlough,88,603
+084 Ballindine,35,339
+085 Ballyhaunis,194,"1,102"
+086 Ballyhowly,27,197
+087 Bekan,45,300
+088 Caraun,23,164
+089 Claremorris,228,"1,723"
+090 Cloghermore,8,63
+091 Course,30,159
+092 Crossboyne,32,256
+093 Culnacleha,16,192
+094 Garrymore,22,188
+095 Kilcolman,28,201
+096 Kilvine,43,259
+097 Knock North,57,347
+098 Knock South,29,244
+099 Loughanboy,16,127
+100 Mayo,16,210
+101 Murneen,20,151
+102 Tagheen,5,71
+103 Aghamore,38,234
+104 Ballinamore,21,120
+105 Bohola,18,126
+106 Brackloon,33,229
+107 Callow,37,159
+108 Cloonmore,39,164
+109 Coolnaha,35,186
+110 Cuildoo,18,117
+111 Doocastle,23,130
+112 Kilbeagh,72,387
+113 Kilkelly,43,314
+114 Killedan,42,259
+115 Kilmovee,36,214
+116 Kiltamagh,81,561
+117 Meelick,44,200
+118 Sonnagh,75,412
+119 Swineford,140,854
+120 Toocananagh,18,149
+121 Toomore,98,595
+122 Tumgesh,19,120
+123 Urlaur,27,185
+124 Acaill,63,231
+125 Aghagower North,63,437
+126 Aghagower South,4,49
+127 Aillemore,17,137
+128 Ballycroy North,14,86
+129 Ballycroy South,12,96
+131 Clare Island,6,82
+132 Clogher,47,379
+133 An Corrán,46,212
+134 Croaghpatrick,42,226
+135 Derryloughan,47,310
+136 Dumha Éige,27,157
+137 Drummin,9,84
+138 Emlagh,29,139
+139 Erriff,4,54
+140 Glenhest,12,89
+141 Islandeady,65,444
+142 Kilgeever,4,44
+143 Kilmaclasser,32,259
+144 Kilmeena,101,609
+145 Kilsallagh,45,199
+146 Knappagh,42,305
+147 Louisburgh,55,358
+148 Newport East,69,492
+149 Newport West,48,278
+130 Owennadornaun / Bundorragha,9,68
+151 Slievemahanagh,24,190
+152 Slievemore,65,287
+153 Srahmore,6,48
+154 Westport Rural,96,637
+001 Athlone West Rural,273,"2,211"
+002 Ballydangan,53,323
+003 Ballynamona,32,218
+004 Caltragh,16,103
+005 Carnagh,47,352
+006 Carrowreagh,31,241
+007 Castlesampson,30,177
+008 Cloonburren,16,86
+009 Cloonown,18,122
+010 Crannagh,63,482
+011 Creagh,65,414
+012 Culliagh,21,88
+013 Drumlosh,21,147
+014 Dysart,13,104
+015 Kilcar,22,168
+016 Kiltoom,101,707
+017 Lecarrow,33,159
+018 Moore,12,115
+019 Rockhill,29,174
+020 Taghboy,28,171
+021 Taghmaconnell,21,107
+022 Thomastown,39,345
+023 Turrock,16,156
+024 Aghafin,11,54
+026 Aughrim East,12,102
+027 Aughrim West,7,72
+028 Ballyfarnan,13,80
+029 Ballyfermoyle,11,64
+030 Boyle Rural,99,609
+031 Boyle Urban,75,435
+032 Breedoge,7,101
+033 Cloonteen,18,115
+034 Creeve,7,57
+035 Croghan,23,160
+036 Crossna,8,71
+037 Danesfort,56,386
+038 Estersnow,9,40
+039 Keadew,31,177
+040 Kilbryan,24,134
+041 Kilcolagh,12,61
+042 Killukin,13,129
+043 Killummod,8,49
+044 Kilmacumsy,14,131
+045 Kilmore,13,76
+048 Lisgarve / Mantua,9,92
+025 Lough Allen / Altagowlan,12,100
+049 Oakport,23,190
+050 Rockingham,23,140
+051 Rushfield,17,163
+052 Tivannagh,16,114
+053 Tumna North,13,67
+054 Tumna South,13,77
+055 Artagh North,52,289
+056 Artagh South,32,162
+057 Ballaghaderreen,138,898
+058 Ballinlough,63,359
+059 Ballintober,32,289
+060 Baslick,15,60
+061 Bellanagare,39,220
+062 Buckill,31,136
+063 Carrowduff,15,88
+064 Castleplunket,25,182
+065 Castlereagh,100,953
+066 Castleteheen,19,132
+067 Cloonfower,14,120
+068 Coolougher,33,204
+069 Edmondstown,26,138
+070 Fairymount,16,133
+071 Frenchpark,49,319
+072 Kiltullagh,56,378
+073 Loughglinn,34,245
+074 Annaghmore,19,124
+075 Athleague East,22,202
+076 Athleague West,31,210
+077 Ballygarden,17,76
+078 Bumlin,32,195
+079 Cams,32,204
+080 Cloonfinlough,17,68
+081 Cloontuskert,76,514
+082 Cloonygormican,27,193
+083 Cloonyquin,14,114
+084 Creeve,14,64
+085 Cregga,7,65
+086 Drumdaff,35,194
+087 Dunamon,24,139
+088 Elia,6,57
+089 Elphin,48,271
+090 Fuerty,45,311
+091 Kilbride North,24,181
+092 Kilbride South,23,170
+093 Kilgefin,16,132
+094 Kilglass North,30,169
+095 Kilglass South,25,126
+096 Killavackan,16,95
+097 Killukin,13,91
+098 Kilteevan,38,223
+099 Lackan,22,155
+100 Lismaha,9,147
+101 Lissonuffy,17,82
+102 Mote,63,395
+103 Ogulla,17,134
+104 Roosky,67,263
+105 Roscommon Rural,274,"1,862"
+106 Roscommon Urban,107,675
+107 Rosmoylan,11,58
+108 Rossmore,6,72
+109 Scregg,35,234
+110 Strokestown,50,357
+111 Termonbarry,54,325
+112 Tulsk,23,118
+001 Sligo East,239,"1,814"
+002 Sligo North,175,"1,464"
+003 Sligo West,392,"2,871"
+004 Aghanagh,29,148
+005 Ballynashee,19,134
+006 Coolavin,30,187
+007 Cuilmore,36,207
+008 Drumrat,24,184
+009 Kilfree,30,203
+010 Killadoon,21,108
+011 Killaraght,27,174
+012 Kilmactranny,24,138
+013 Kilshalvy,20,110
+014 Shancough,5,39
+015 Templevanny,17,96
+016 Toomour,9,80
+017 Aughris,12,73
+018 Buncrowey,19,114
+019 Castleconor East,9,85
+020 Castleconor West,70,428
+021 Dromard East,10,77
+022 Dromard West,6,88
+023 Dromore,36,173
+024 Easky East,28,190
+025 Easky West,37,282
+026 Kilglass,101,597
+028 Rathmacurkey,35,217
+029 Skreen,10,67
+030 Templeboy North,16,116
+027 Templeboy South / Mullagheruse,17,84
+032 Toberpatrick East,10,107
+033 Toberpatrick West,11,123
+034 Ballintogher East,53,294
+035 Ballintogher West,30,201
+036 Ballymote,96,741
+037 Ballynakill,31,204
+038 Ballysadare East,83,534
+039 Ballysadare West,29,162
+040 Bricklieve,19,105
+041 Calry,112,709
+042 Carney,58,277
+043 Carrickbanagher,49,281
+044 Cliffony North,63,358
+045 Cliffony South,45,246
+046 Collooney,155,"1,175"
+047 Drumcliff East,48,284
+048 Drumcliff West,99,689
+049 Drumcolumb,12,125
+050 Drumfin,25,162
+051 Glencar,15,91
+052 Kilmacowen,163,951
+053 Knockaree,205,"1,627"
+054 Lakeview,29,175
+055 Lisconny,21,154
+056 Lissadill East,69,374
+057 Lissadill North,103,580
+058 Lissadill West,47,249
+059 Riverstown,30,268
+060 Rossinver East,10,83
+061 Rossinver West,19,109
+062 Achonry East,28,187
+063 Achonry West,66,302
+064 Aclare,17,98
+065 Annagh,4,77
+066 Banada,49,208
+069 Branchfield / Carrownaskeagh,8,77
+068 Breencorragh,4,46
+070 Cartron,5,68
+072 Cloonoghill,13,127
+073 Coolaney,84,562
+074 Glendarragh,11,73
+075 Kilmacteige,18,95
+076 Kilturra,8,88
+077 Leitrim,19,129
+071 Loughill / Cloonacool,17,149
+079 Owenmore,7,40
+080 Streamstown,18,115
+081 Temple,21,156
+082 Tobercurry,158,988
+001 Cavan Urban,188,"1,137"
+002 Bailieborough,233,"1,410"
+003 Carnagarve,45,239
+004 Crossbane,44,249
+005 Drumanespick,28,168
+006 Enniskeen,27,209
+007 Killinkere,34,197
+008 Kingscourt,247,"1,281"
+009 Lisagoan,28,173
+010 Mullagh,133,865
+011 Shercock,93,547
+012 Skeagh,19,163
+013 Taghart,32,270
+014 Termon,41,212
+015 Ballyconnell,117,623
+016 Ballymagauran,9,84
+017 Bawnboy,46,243
+019 Bilberry,9,64
+020 Carn,12,97
+021 Diamond,3,51
+022 Doogary,6,54
+023 Kinawley,6,45
+024 Lissanover,14,123
+028 Pedara Vohers / Tircahan,13,68
+026 Swanlinbar,26,160
+018 Templeport / Benbrack,24,136
+029 Ballyjamesduff,186,"1,184"
+030 Castlerahan,59,349
+031 Kilbride,67,376
+032 Lurgan,55,244
+033 Munterconnaught,76,465
+034 Virginia,284,"1,784"
+035 Ardue,72,341
+036 Arvagh,58,385
+037 Ashfield,20,133
+038 Ballintemple,23,207
+039 Ballyhaise,65,428
+040 Ballymachugh,44,321
+041 Bellananagh,98,602
+042 Belturbet Urban,79,488
+043 Bruce Hall,9,81
+044 Butler's Bridge,31,212
+045 Canningstown,36,236
+046 Carrafin,22,159
+047 Castlesaunderson,18,128
+048 Cavan Rural,483,"3,299"
+049 Clonervy,49,385
+050 Cootehill Rural,76,447
+051 Cootehill Urban,80,597
+052 Corr,14,104
+053 Corraneary,34,205
+054 Crossdoney,30,227
+055 Crosskeys,38,291
+056 Cuttragh,32,159
+057 Denn,48,283
+058 Derrin,18,171
+059 Drumcarban,37,245
+060 Drumcarn,29,208
+061 Drung,30,222
+062 Graddum,31,211
+063 Grilly,32,177
+064 Kilconny,40,212
+065 Kill,21,139
+066 Killashandra,60,457
+067 Killykeen,29,243
+068 Kilnaleck,76,460
+069 Knappagh,29,208
+070 Larah North,28,212
+071 Larah South,38,223
+072 Milltown,21,151
+073 Moynehall,95,708
+074 Rakenny,18,173
+075 Redhill,23,188
+076 Springfield,13,77
+077 Stradone,50,336
+078 Tullyvin East,36,202
+079 Tullyvin West,19,133
+080 Waterloo,55,350
+081 Derrylahan,6,31
+083 Dowra,10,68
+082 Dunmakeever / Derrynananta,8,47
+085 Eskey,13,81
+087 Killinagh / Teebane,8,54
+088 Tuam,17,143
+089 Drumlumman,32,237
+090 Kilcogy,20,162
+091 Kilgolagh,17,134
+092 Loughdawan,17,137
+093 Scrabby,40,255
+001 Buncrana Urban,164,"1,086"
+002 Bundoran Urban,93,594
+003 Letterkenny Urban,96,795
+004 Ballintra,29,256
+005 Ballyshannon Rural,96,583
+006 Ballyshannon Urban,76,619
+007 Bundoran Rural,69,433
+008 Carrickboy,26,147
+009 Cavangarden,14,165
+010 Cliff,13,98
+011 Ballintra,30,258
+012 An Bhinn Bhán,15,57
+013 Bonnyglen,27,156
+014 Clogher,49,362
+015 Corkermore,19,115
+016 Donegal,235,"1,575"
+017 Dunkineely,38,345
+018 Eanymore,30,217
+019 Grousehall,3,29
+020 Haugh,13,105
+021 Inver,39,301
+022 Laghy,47,296
+023 Loch Iascaigh,20,118
+024 Pettigoe,17,143
+025 Tantallon,96,667
+026 Tawnawully,19,121
+027 Templecarn,7,46
+028 Tullynaught,26,241
+029 Ards,39,245
+030 Críoch na Sméar,14,102
+031 An Craoslach,39,235
+032 Na Croisbhealaí,84,579
+033 Caisleán na dTuath,11,83
+034 Dún Fionnachaidh,44,325
+035 Dún Lúiche,35,232
+036 Gort an Choirce,73,439
+037 Machaire Chlochair,158,898
+038 Mín an Chladaigh,56,361
+039 Anagaire,114,692
+040 Árainn Mhór,22,83
+041 Ard an Rátha,73,427
+042 Cró Bheithe,11,52
+043 Cró Chaorach,4,43
+044 Crownarad,24,132
+045 Dawros,37,239
+046 An Dúchoraidh,5,16
+047 An Clochán Liath,97,610
+048 Baile na Finne,3,106
+049 Gleann Cholm Cille,32,249
+050 Gleann Gheis,32,281
+051 Gleann Léithín,3,52
+052 Na Gleannta,73,510
+053 An Ghrafaidh,6,45
+054 Inis Caoil,2,25
+055 Cill Charthaigh,32,267
+056 Cill Ghabhlaigh,12,134
+057 Killybegs,95,871
+058 An Leargaidh Mhór,34,206
+059 Leitir Mhic an Bhaird,28,180
+060 Maas,20,111
+061 An Machaire,37,226
+062 Málainn Bhig,16,117
+063 Maol Mosóg,11,86
+064 Inis Mhic an Doirn,69,415
+065 Tieveskeelta,7,44
+066 Ardmalin,48,231
+067 Ballyliffin,53,418
+068 Birdstown,60,508
+069 Buncrana Rural,188,"1,384"
+070 Burt,61,503
+071 Carndonagh,100,769
+072 Carthage,39,283
+073 Castlecary,32,263
+074 Castleforward,46,490
+075 Culdaff,48,319
+076 Desertegny,43,216
+077 Dunaff,16,227
+078 Fahan,90,591
+079 Glennagannon,36,254
+080 Gleneely,24,279
+081 Glentogher,42,334
+082 Greencastle,44,355
+083 Illies,33,289
+084 Inch Island,15,161
+085 Kilderry,121,849
+086 Killea,85,693
+087 Malin,29,227
+088 Mintiaghs,43,291
+089 Moville,105,830
+090 Newtown Cunningham,40,363
+091 Redcastle,54,327
+092 Straid,45,378
+093 Three Trees,32,241
+094 Turmone,11,100
+095 Whitecastle,53,379
+096 Ballymacool,89,954
+097 Castlewray,202,"1,508"
+098 Mín an Lábáin,14,139
+099 Corravaddy,71,712
+100 Edenacarnan,88,686
+101 Gartán,11,67
+102 Gortnavern,70,505
+103 Killymasny,19,198
+104 Kincraigy,39,380
+105 Letterkenny Rural,452,"4,275"
+106 Magheraboy,77,629
+107 Manorcunningham,46,454
+108 Suí Corr,6,44
+109 Templedouglas,40,410
+110 Ballyarr,24,225
+111 Carraig Airt,33,272
+112 An Cheathrú Chaol,35,292
+113 Creamhghort,25,217
+114 Fánaid Thuaidh,26,204
+115 Fánaid Thiar,18,125
+116 Glen,13,94
+117 Glenalla,27,191
+118 Grianfort,14,98
+119 Killygarvan,2,42
+120 Kilmacrenan,66,463
+121 Cnoc Colbha,14,93
+122 Loch Caol,19,110
+123 Millford,63,524
+124 Rathmelton,93,902
+125 Rathmullan,41,310
+126 Ros Goill,40,296
+127 Rosnakill,10,96
+128 An Tearmann,31,216
+129 Allt na Péiste,8,140
+130 Castlefinn,37,398
+131 An Clochán,28,330
+132 Cloghard,32,240
+133 Clonleigh North,39,470
+134 Clonleigh South,74,654
+135 Convoy,84,837
+136 Dooish,45,394
+137 Feddyglass,16,195
+138 Figart,28,385
+139 Gleneely,61,564
+140 Goland,21,137
+141 Killygordon,50,381
+142 Knock,79,717
+143 Lettermore,21,173
+144 Mín Charraigeach,7,50
+145 Raphoe,38,440
+146 St. Johnstown,43,466
+147 Stranorlar,206,"1,422"
+148 Treantaghmucklagh,35,308
+149 Urney West,25,226
+001 Carrickmacross Urban,142,828
+002 Castleblayney Urban,38,333
+003 Clones Urban,44,299
+004 Monaghan Urban,148,"1,058"
+005 Ballymackney,70,370
+006 Bocks,39,310
+007 Carrickmacross Rural,246,"1,582"
+008 Corracharra,21,118
+009 Crossalare,51,239
+010 Donaghmoyne,59,274
+011 Drumboory,36,209
+012 Drumcarrow,46,193
+013 Drumgurra,38,314
+014 Enagh,63,283
+015 Inishkeen,67,428
+016 Kilmurry,46,244
+017 Kiltybegs,61,279
+018 Loughfea,49,272
+019 Raferagh,33,200
+020 Annayalla,26,254
+021 Ballybay Rural,81,640
+022 Ballybay Urban,11,111
+023 Bellatrain,18,100
+024 Broomfield,55,333
+025 Carrickaslane,41,286
+026 Carrickatee,23,136
+027 Castleblayney Rural,184,"1,405"
+028 Church Hill,35,261
+029 Creeve,42,268
+030 Cremartin,79,502
+031 Greagh,24,189
+032 Laragh,37,231
+033 Mullyash,16,162
+034 Aghabog,17,138
+035 Anny,16,139
+036 Clones Rural,87,549
+037 Cormeen,28,206
+038 Currin,37,254
+039 Dawsongrove,31,292
+040 Drum,5,73
+041 Drummully,6,50
+042 Killeevan,35,152
+043 Killynenagh,7,91
+044 Lisnaveane,20,172
+045 Newbliss,31,317
+046 St. Tierney,22,187
+047 Anketell Grove,73,511
+048 Bellanode,89,581
+049 Bragan,26,144
+050 Caddagh,31,212
+051 Castleshane,52,396
+052 Clones,25,193
+053 Clontibret,55,323
+054 Derrygorry,15,115
+055 Drumhillagh,37,282
+056 Drumsnat,46,399
+057 Emyvale,74,546
+058 Enagh,29,220
+059 Figullar,23,232
+060 Glaslough,49,429
+061 Killylough,33,267
+062 Kilmore,34,207
+063 Monaghan Rural,351,"2,507"
+064 Rackwallace,57,378
+065 Scotstown,77,491
+066 Shanmullagh,18,91
+067 Sheskin,49,278
+068 Tedavnet,42,410
+069 Tehallan,56,372
+070 Tullycorbet,25,265
